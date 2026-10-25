@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+ckpt.pt
+ckpt_chat.pt
+data.txt
+.env

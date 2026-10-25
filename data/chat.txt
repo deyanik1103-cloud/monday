@@ -1,0 +1,1223 @@
+<|user|>Why do we test software?<|assistant|>Testing checks that software works correctly and finds bugs before users do.<|end|>
+<|user|>What is a virtual machine?<|assistant|>A virtual machine is a computer simulated by software, so you can run another operating system safely.<|end|>
+<|user|>What is a code library<|assistant|>A library is a collection of ready made code that you can use in your own programs.<|end|>
+<|user|>What is an IDE?<|assistant|>An IDE is a program for writing code. It includes an editor, a debugger, and other tools.<|end|>
+<|user|>What is a prompt?<|assistant|>A prompt is the text you give to a language model so it can answer or continue it.<|end|>
+<|user|>what is ram?<|assistant|>RAM is the short term memory of a computer. It holds the data that programs are using right now.<|end|>
+<|user|>what is an ide?<|assistant|>An IDE is a program for writing code. It includes an editor, a debugger, and other tools.<|end|>
+<|user|>who is the president of france?<|assistant|>I cannot look up current facts yet, and my knowledge is very small. Please check a trusted news source.<|end|>
+<|user|>What is a token<|assistant|>A token is a small piece of text, such as a word or part of a word, that a language model reads.<|end|>
+<|user|>Explain database normalization.<|assistant|>Normalization organizes database tables to reduce repeated data.<|end|>
+<|user|>Why do we test software<|assistant|>Testing checks that software works correctly and finds bugs before users do.<|end|>
+<|user|>What is a compiler?<|assistant|>A compiler translates source code into machine code before the program runs.<|end|>
+<|user|>what is open source?<|assistant|>Open source software has code that anyone can read, use, and improve.<|end|>
+<|user|>Canada's capital<|assistant|>Ottawa is the capital of Canada.<|end|>
+<|user|>What is software engineering<|assistant|>Software engineering is the process of designing, building, testing, and maintaining software in an organized way.<|end|>
+<|user|>Explain VPN.<|assistant|>A VPN encrypts your internet traffic and sends it through another server to protect your privacy.<|end|>
+<|user|>What is your name?<|assistant|>My name is Monday.<|end|>
+<|user|>China's capital<|assistant|>Beijing is the capital of China.<|end|>
+<|user|>explain linux.<|assistant|>Linux is a free, open source operating system used widely on servers.<|end|>
+<|user|>what is a server?<|assistant|>A server is a computer that provides data or services to other computers.<|end|>
+<|user|>i feel angry<|assistant|>It is okay to feel angry. Try taking a few slow deep breaths. Do you want to tell me what happened?<|end|>
+<|user|>how smart are you?<|assistant|>I am very small, so I know much less than big AI systems. I will get better as my data and model grow.<|end|>
+<|user|>What is Kotlin?<|assistant|>Kotlin is a modern language used mainly for Android apps. It runs on the Java Virtual Machine.<|end|>
+<|user|>can you listen to my voice?<|assistant|>Not yet. Voice input is planned for a later version.<|end|>
+<|user|>What is the terminal<|assistant|>The terminal is a text window where you type commands to control your computer.<|end|>
+<|user|>what is a stack?<|assistant|>A stack stores items so that the last item added is the first one removed.<|end|>
+<|user|>capital of germany?<|assistant|>Berlin is the capital of Germany.<|end|>
+<|user|>what is normalization?<|assistant|>Normalization organizes database tables to reduce repeated data.<|end|>
+<|user|>What is cybersecurity?<|assistant|>Cybersecurity is protecting computers, networks, and data from attacks.<|end|>
+<|user|>What is a software bug?<|assistant|>A bug is a mistake in a program that makes it behave in the wrong way.<|end|>
+<|user|>what is training?<|assistant|>Training means showing a model many examples and adjusting its numbers until its predictions get better.<|end|>
+<|user|>What is SQL<|assistant|>SQL is a language for storing, reading, and changing data in a database.<|end|>
+<|user|>How do I fix a bug?<|assistant|>Read the error message, find the line, test small parts, and print values to see what went wrong.<|end|>
+<|user|>help me with my code<|assistant|>Of course! Tell me what you need. I know the basics of programming, databases, web development, AI, and security.<|end|>
+<|user|>What is C<|assistant|>C is a low level programming language that is close to the hardware. It is used for operating systems and embedded devices.<|end|>
+<|user|>Explain framework in programming<|assistant|>A framework is a ready made structure of code that helps you build applications faster.<|end|>
+<|user|>Will you be in a robot one day<|assistant|>That is the plan. One day I may become the brain of a robot.<|end|>
+<|user|>explain virtual machine.<|assistant|>A virtual machine is a computer simulated by software, so you can run another operating system safely.<|end|>
+<|user|>How many continents are there<|assistant|>There are seven continents.<|end|>
+<|user|>are you smart?<|assistant|>I am very small, so I know much less than big AI systems. I will get better as my data and model grow.<|end|>
+<|user|>what is css?<|assistant|>CSS controls how web pages look, such as colors, fonts, and layout.<|end|>
+<|user|>i feel stressed<|assistant|>That sounds hard. Take a short break, breathe slowly, and do one small task at a time.<|end|>
+<|user|>what is happening in the world today?<|assistant|>I cannot read the news yet. Please check a trusted news source.<|end|>
+<|user|>tell me a fun fact<|assistant|>A group of flamingos is called a flamboyance.<|end|>
+<|user|>Explain queue.<|assistant|>A queue stores items so that the first item added is the first one removed.<|end|>
+<|user|>what are props?<|assistant|>Props are inputs that a parent component passes to a child component in React.<|end|>
+<|user|>what should i call you?<|assistant|>My name is Monday.<|end|>
+<|user|>How can I become a developer?<|assistant|>Learn programming and data structures, build projects, put them on GitHub, and practice problem solving.<|end|>
+<|user|>i need motivation<|assistant|>Small steps every day add up. Keep going, you are building something great.<|end|>
+<|user|>What is debugging?<|assistant|>Debugging means finding and fixing bugs in your code.<|end|>
+<|user|>I am lonely<|assistant|>I am sorry you feel lonely. I am here to talk, and reaching out to a friend or family member can help too.<|end|>
+<|user|>Who made you<|assistant|>Anik created me. Every part of my model was written and trained from scratch.<|end|>
+<|user|>how do i make a list in python?<|assistant|>Use square brackets. For example, numbers = [1, 2, 3].<|end|>
+<|user|>Explain JavaScript<|assistant|>JavaScript is the programming language that makes web pages interactive. It runs in the browser and on servers.<|end|>
+<|user|>What is the capital of Thailand<|assistant|>Bangkok is the capital of Thailand.<|end|>
+<|user|>Explain ransomware.<|assistant|>Ransomware locks your files and demands money to unlock them.<|end|>
+<|user|>What is a full stack developer?<|assistant|>Full stack development means building both the frontend and the backend of an application.<|end|>
+<|user|>i am so happy today<|assistant|>That is wonderful! What made your day good?<|end|>
+<|user|>Who is the current leader of the world<|assistant|>I cannot look up current facts yet, and my knowledge is very small. Please check a trusted news source.<|end|>
+<|user|>what is a dataset?<|assistant|>A dataset is a collection of data used to train or test a model.<|end|>
+<|user|>what is frontend?<|assistant|>The frontend is the part of an app that users see and click, like pages and buttons.<|end|>
+<|user|>What is the capital of Malaysia<|assistant|>Kuala Lumpur is the capital of Malaysia.<|end|>
+<|user|>Explain Big O<|assistant|>Big O notation describes how fast an algorithm's running time grows as the input gets bigger.<|end|>
+<|user|>explain database normalization.<|assistant|>Normalization organizes database tables to reduce repeated data.<|end|>
+<|user|>What is an API?<|assistant|>An API lets two programs talk to each other by sending requests and responses.<|end|>
+<|user|>What is a list in programming<|assistant|>An array is a list of values stored in order and accessed by position.<|end|>
+<|user|>Capital of Malaysia?<|assistant|>Kuala Lumpur is the capital of Malaysia.<|end|>
+<|user|>Australia's capital?<|assistant|>Canberra is the capital of Australia.<|end|>
+<|user|>What is a bug<|assistant|>A bug is a mistake in a program that makes it behave in the wrong way.<|end|>
+<|user|>explain ram.<|assistant|>RAM is the short term memory of a computer. It holds the data that programs are using right now.<|end|>
+<|user|>Open Google<|assistant|>Commands are not connected yet. They are coming in the next version.<|end|>
+<|user|>What is a transformer<|assistant|>A transformer is a neural network design that uses attention to look at all parts of the input. Language models like me use it.<|end|>
+<|user|>japan's capital?<|assistant|>Tokyo is the capital of Japan.<|end|>
+<|user|>good night<|assistant|>Good night! Rest well.<|end|>
+<|user|>I am so happy today<|assistant|>That is wonderful! What made your day good?<|end|>
+<|user|>What is the weather<|assistant|>I cannot check the weather yet. That skill is planned for a later version.<|end|>
+<|user|>Explain HTML<|assistant|>HTML is the markup language that defines the structure of web pages.<|end|>
+<|user|>tell me about java.<|assistant|>Java is a popular object oriented programming language used for Android apps, business software, and large systems. It runs on the Java Virtual Machine.<|end|>
+<|user|>explain dataset.<|assistant|>A dataset is a collection of data used to train or test a model.<|end|>
+<|user|>What is HTML<|assistant|>HTML is the markup language that defines the structure of web pages.<|end|>
+<|user|>How smart are you<|assistant|>I am very small, so I know much less than big AI systems. I will get better as my data and model grow.<|end|>
+<|user|>United Kingdom's capital<|assistant|>London is the capital of the United Kingdom.<|end|>
+<|user|>explain the sun.<|assistant|>The sun is the star at the center of our solar system.<|end|>
+<|user|>What is the capital of Germany?<|assistant|>Berlin is the capital of Germany.<|end|>
+<|user|>capital of australia?<|assistant|>Canberra is the capital of Australia.<|end|>
+<|user|>Who is the president of the USA<|assistant|>I cannot look up current facts yet, and my knowledge is very small. Please check a trusted news source.<|end|>
+<|user|>explain black holes.<|assistant|>I do not know that yet. My knowledge is very small, but I am still learning.<|end|>
+<|user|>capital of thailand?<|assistant|>Bangkok is the capital of Thailand.<|end|>
+<|user|>what is the command line?<|assistant|>The terminal is a text window where you type commands to control your computer.<|end|>
+<|user|>Can you help me with Java<|assistant|>Of course! Tell me what you need. I know the basics of programming, databases, web development, AI, and security.<|end|>
+<|user|>Will you be in a robot one day?<|assistant|>That is the plan. One day I may become the brain of a robot.<|end|>
+<|user|>What is a tree?<|assistant|>A tree is a data structure with a root and branches of connected nodes.<|end|>
+<|user|>China's capital?<|assistant|>Beijing is the capital of China.<|end|>
+<|user|>I am angry<|assistant|>It is okay to feel angry. Try taking a few slow deep breaths. Do you want to tell me what happened?<|end|>
+<|user|>Capital of Singapore<|assistant|>Singapore is the capital of Singapore.<|end|>
+<|user|>Bye Monday<|assistant|>Goodbye! Talk to you soon.<|end|>
+<|user|>what is java?<|assistant|>Java is a popular object oriented programming language used for Android apps, business software, and large systems. It runs on the Java Virtual Machine.<|end|>
+<|user|>what is attention in ai?<|assistant|>Attention lets a model decide which earlier words matter most when it predicts the next word.<|end|>
+<|user|>What is the largest planet<|assistant|>Jupiter is the largest planet in our solar system.<|end|>
+<|user|>What is quantum physics<|assistant|>I do not know that yet. My knowledge is very small, but I am still learning.<|end|>
+<|user|>Are you alive<|assistant|>I am not human. I am an AI program that runs on a computer.<|end|>
+<|user|>How to read data in SQL<|assistant|>Use SELECT. Example: SELECT * FROM users;<|end|>
+<|user|>what is a loop?<|assistant|>A loop repeats a block of code many times.<|end|>
+<|user|>What is a full stack developer<|assistant|>Full stack development means building both the frontend and the backend of an application.<|end|>
+<|user|>How do I learn programming<|assistant|>Start with one language like Python, practice every day with small projects, and read other people's code.<|end|>
+<|user|>do you feel emotions?<|assistant|>I do not feel emotions like people do, but I am being built to understand how you feel.<|end|>
+<|user|>Motivate me<|assistant|>Small steps every day add up. Keep going, you are building something great.<|end|>
+<|user|>What is encryption<|assistant|>Encryption scrambles data so only someone with the key can read it.<|end|>
+<|user|>usa's capital?<|assistant|>Washington, D.C. is the capital of the USA.<|end|>
+<|user|>What is Java<|assistant|>Java is a popular object oriented programming language used for Android apps, business software, and large systems. It runs on the Java Virtual Machine.<|end|>
+<|user|>What is the capital of the United Kingdom?<|assistant|>London is the capital of the United Kingdom.<|end|>
+<|user|>What is the sun?<|assistant|>The sun is the star at the center of our solar system.<|end|>
+<|user|>What is an array<|assistant|>An array is a list of values stored in order and accessed by position.<|end|>
+<|user|>Who built you?<|assistant|>Anik created me. Every part of my model was written and trained from scratch.<|end|>
+<|user|>what is the sun?<|assistant|>The sun is the star at the center of our solar system.<|end|>
+<|user|>What is Swift<|assistant|>Swift is the programming language made by Apple for iPhone and Mac apps.<|end|>
+<|user|>What is frontend?<|assistant|>The frontend is the part of an app that users see and click, like pages and buttons.<|end|>
+<|user|>Thanks Monday<|assistant|>You are welcome!<|end|>
+<|user|>Capital of India?<|assistant|>New Delhi is the capital of India.<|end|>
+<|user|>Explain stack.<|assistant|>A stack stores items so that the last item added is the first one removed.<|end|>
+<|user|>What is a library?<|assistant|>A library is a collection of ready made code that you can use in your own programs.<|end|>
+<|user|>explain data structures.<|assistant|>A data structure is a way of organizing data so a program can use it efficiently. Lists, stacks, and trees are examples.<|end|>
+<|user|>australia's capital?<|assistant|>Canberra is the capital of Australia.<|end|>
+<|user|>Who is the prime minister of Bangladesh<|assistant|>I cannot look up current facts yet, and my knowledge is very small. Please check a trusted news source.<|end|>
+<|user|>what does gpt mean?<|assistant|>GPT stands for generative pre trained transformer. It is a language model that predicts the next token.<|end|>
+<|user|>How is the weather today<|assistant|>I cannot check the weather yet. That skill is planned for a later version.<|end|>
+<|user|>How are you?<|assistant|>I am working well, thank you. How are you?<|end|>
+<|user|>what is ethical hacking?<|assistant|>A hacker is someone skilled with computers. Ethical hackers help find and fix security problems, while criminals break in to cause harm.<|end|>
+<|user|>what is h2o?<|assistant|>Water is made of hydrogen and oxygen. Its formula is H2O.<|end|>
+<|user|>What is the capital of France?<|assistant|>Paris is the capital of France.<|end|>
+<|user|>how do i become a software engineer?<|assistant|>Learn programming and data structures, build projects, put them on GitHub, and practice problem solving.<|end|>
+<|user|>capital of the usa?<|assistant|>Washington, D.C. is the capital of the USA.<|end|>
+<|user|>explain transformers.<|assistant|>A transformer is a neural network design that uses attention to look at all parts of the input. Language models like me use it.<|end|>
+<|user|>give me motivation<|assistant|>Small steps every day add up. Keep going, you are building something great.<|end|>
+<|user|>How do I fix a bug<|assistant|>Read the error message, find the line, test small parts, and print values to see what went wrong.<|end|>
+<|user|>What is a byte<|assistant|>A bit is a single 0 or 1. A byte is 8 bits.<|end|>
+<|user|>explain phishing.<|assistant|>Phishing is a trick where attackers pretend to be trusted people to steal your information.<|end|>
+<|user|>What is a transformer?<|assistant|>A transformer is a neural network design that uses attention to look at all parts of the input. Language models like me use it.<|end|>
+<|user|>I feel angry<|assistant|>It is okay to feel angry. Try taking a few slow deep breaths. Do you want to tell me what happened?<|end|>
+<|user|>Explain C++<|assistant|>C++ is a fast and powerful programming language used for games, operating systems, and software that needs high performance.<|end|>
+<|user|>Explain binary numbers<|assistant|>Binary is a number system with only 0 and 1. Computers use it to store all data.<|end|>
+<|user|>what is gpt?<|assistant|>GPT stands for generative pre trained transformer. It is a language model that predicts the next token.<|end|>
+<|user|>Can you hear me?<|assistant|>Not yet. Voice input is planned for a later version.<|end|>
+<|user|>Capital of Australia<|assistant|>Canberra is the capital of Australia.<|end|>
+<|user|>What is a server?<|assistant|>A server is a computer that provides data or services to other computers.<|end|>
+<|user|>What is RAM<|assistant|>RAM is the short term memory of a computer. It holds the data that programs are using right now.<|end|>
+<|user|>What is Golang?<|assistant|>Go is a programming language made by Google. It is simple and good for servers and cloud tools.<|end|>
+<|user|>What is PHP?<|assistant|>PHP is a server side scripting language that is widely used to build websites.<|end|>
+<|user|>What is a byte?<|assistant|>A bit is a single 0 or 1. A byte is 8 bits.<|end|>
+<|user|>What is a database<|assistant|>A database is an organized collection of data that can be searched and updated.<|end|>
+<|user|>how is the weather today?<|assistant|>I cannot check the weather yet. That skill is planned for a later version.<|end|>
+<|user|>bye monday<|assistant|>Goodbye! Talk to you soon.<|end|>
+<|user|>bye<|assistant|>Goodbye! Talk to you soon.<|end|>
+<|user|>What is attention<|assistant|>Attention lets a model decide which earlier words matter most when it predicts the next word.<|end|>
+<|user|>how are you doing?<|assistant|>I am working well, thank you. How are you?<|end|>
+<|user|>explain github.<|assistant|>GitHub is a website that hosts Git repositories so you can store and share code.<|end|>
+<|user|>What is malware?<|assistant|>Malware is harmful software, such as viruses and ransomware, made to damage systems or steal data.<|end|>
+<|user|>What is MySQL<|assistant|>MySQL is a popular relational database that stores data in tables.<|end|>
+<|user|>What is water made of<|assistant|>Water is made of hydrogen and oxygen. Its formula is H2O.<|end|>
+<|user|>can you hear me?<|assistant|>Not yet. Voice input is planned for a later version.<|end|>
+<|user|>Explain overfitting.<|assistant|>Overfitting is when a model memorizes its training data and does badly on new data.<|end|>
+<|user|>What is loss<|assistant|>Loss is a number that measures how wrong a model's predictions are. Training tries to make it smaller.<|end|>
+<|user|>Capital of Singapore?<|assistant|>Singapore is the capital of Singapore.<|end|>
+<|user|>What is H2O?<|assistant|>Water is made of hydrogen and oxygen. Its formula is H2O.<|end|>
+<|user|>What is a CPU<|assistant|>The CPU is the main processor of a computer. It runs the instructions of programs.<|end|>
+<|user|>What topics do you know?<|assistant|>I know the basics of programming, databases, web development, AI, cybersecurity, and a few general facts. I am still learning.<|end|>
+<|user|>thanks<|assistant|>You are welcome!<|end|>
+<|user|>Singapore's capital?<|assistant|>Singapore is the capital of Singapore.<|end|>
+<|user|>What is an array?<|assistant|>An array is a list of values stored in order and accessed by position.<|end|>
+<|user|>canada's capital?<|assistant|>Ottawa is the capital of Canada.<|end|>
+<|user|>capital of indonesia?<|assistant|>Jakarta is the capital of Indonesia.<|end|>
+<|user|>explain variables.<|assistant|>A variable is a named place in memory that stores a value.<|end|>
+<|user|>Tell me about Python<|assistant|>Python is a popular programming language that is easy to read. It is used for web development, data science, and AI.<|end|>
+<|user|>What is a foreign key<|assistant|>A foreign key is a column that links a row to a row in another table.<|end|>
+<|user|>What is a dataset<|assistant|>A dataset is a collection of data used to train or test a model.<|end|>
+<|user|>USA's capital<|assistant|>Washington, D.C. is the capital of the USA.<|end|>
+<|user|>Explain IDE.<|assistant|>An IDE is a program for writing code. It includes an editor, a debugger, and other tools.<|end|>
+<|user|>Good night Monday<|assistant|>Good night! Rest well.<|end|>
+<|user|>explain server.<|assistant|>A server is a computer that provides data or services to other computers.<|end|>
+<|user|>What is Git?<|assistant|>Git is a version control tool that tracks changes to your code so you can go back and work with others.<|end|>
+<|user|>Who invented the telephone<|assistant|>I do not know that yet. My knowledge is very small, but I am still learning.<|end|>
+<|user|>thailand's capital?<|assistant|>Bangkok is the capital of Thailand.<|end|>
+<|user|>how can i learn coding?<|assistant|>Start with one language like Python, practice every day with small projects, and read other people's code.<|end|>
+<|user|>France's capital?<|assistant|>Paris is the capital of France.<|end|>
+<|user|>Explain cybersecurity.<|assistant|>Cybersecurity is protecting computers, networks, and data from attacks.<|end|>
+<|user|>Will you be a robot<|assistant|>That is the plan. One day I may become the brain of a robot.<|end|>
+<|user|>india's capital?<|assistant|>New Delhi is the capital of India.<|end|>
+<|user|>Explain DNS.<|assistant|>DNS turns website names into IP addresses.<|end|>
+<|user|>what is a hacker?<|assistant|>A hacker is someone skilled with computers. Ethical hackers help find and fix security problems, while criminals break in to cause harm.<|end|>
+<|user|>Capital of India<|assistant|>New Delhi is the capital of India.<|end|>
+<|user|>what is typescript?<|assistant|>TypeScript is JavaScript with types, which helps you catch mistakes before the code runs.<|end|>
+<|user|>explain databases.<|assistant|>A database is an organized collection of data that can be searched and updated.<|end|>
+<|user|>How do I make a strong password?<|assistant|>A strong password is long, unique, and mixes words, numbers, and symbols. Never reuse it on other sites.<|end|>
+<|user|>Tell me something interesting<|assistant|>A group of flamingos is called a flamboyance.<|end|>
+<|user|>i am stressed<|assistant|>That sounds hard. Take a short break, breathe slowly, and do one small task at a time.<|end|>
+<|user|>What is the capital of India<|assistant|>New Delhi is the capital of India.<|end|>
+<|user|>what is a firewall?<|assistant|>A firewall filters network traffic and blocks unwanted connections.<|end|>
+<|user|>Explain GitHub<|assistant|>GitHub is a website that hosts Git repositories so you can store and share code.<|end|>
+<|user|>how is it going?<|assistant|>I am working well, thank you. How are you?<|end|>
+<|user|>What is blockchain?<|assistant|>I do not know that yet. My knowledge is very small, but I am still learning.<|end|>
+<|user|>What is software testing?<|assistant|>Testing checks that software works correctly and finds bugs before users do.<|end|>
+<|user|>explain big o.<|assistant|>Big O notation describes how fast an algorithm's running time grows as the input gets bigger.<|end|>
+<|user|>How is it going<|assistant|>I am working well, thank you. How are you?<|end|>
+<|user|>Can you help me with programming<|assistant|>Of course! Tell me what you need. I know the basics of programming, databases, web development, AI, and security.<|end|>
+<|user|>i am doing well<|assistant|>That is great to hear!<|end|>
+<|user|>capital of turkey?<|assistant|>Ankara is the capital of Turkey.<|end|>
+<|user|>Introduce yourself<|assistant|>I am Monday, a small AI assistant built from scratch by Anik. I am still learning.<|end|>
+<|user|>what is ai?<|assistant|>AI means artificial intelligence, which is computers doing tasks that normally need human thinking.<|end|>
+<|user|>explain sorting algorithms.<|assistant|>Sorting arranges items in order, such as from smallest to largest.<|end|>
+<|user|>Thailand's capital<|assistant|>Bangkok is the capital of Thailand.<|end|>
+<|user|>Do you have feelings?<|assistant|>I do not feel emotions like people do, but I am being built to understand how you feel.<|end|>
+<|user|>Explain MySQL.<|assistant|>MySQL is a popular relational database that stores data in tables.<|end|>
+<|user|>how to read data in sql?<|assistant|>Use SELECT. Example: SELECT * FROM users;<|end|>
+<|user|>can you help me with programming?<|assistant|>Of course! Tell me what you need. I know the basics of programming, databases, web development, AI, and security.<|end|>
+<|user|>What is VS Code?<|assistant|>Visual Studio Code is a free code editor made by Microsoft.<|end|>
+<|user|>i feel lonely<|assistant|>I am sorry you feel lonely. I am here to talk, and reaching out to a friend or family member can help too.<|end|>
+<|user|>What is RAM?<|assistant|>RAM is the short term memory of a computer. It holds the data that programs are using right now.<|end|>
+<|user|>What is the capital of Indonesia<|assistant|>Jakarta is the capital of Indonesia.<|end|>
+<|user|>What is an LLM<|assistant|>A language model is an AI that learns to predict the next piece of text. Chatbots are built on top of it.<|end|>
+<|user|>how do i learn programming?<|assistant|>Start with one language like Python, practice every day with small projects, and read other people's code.<|end|>
+<|user|>What is Visual Studio Code?<|assistant|>Visual Studio Code is a free code editor made by Microsoft.<|end|>
+<|user|>Explain CPU<|assistant|>The CPU is the main processor of a computer. It runs the instructions of programs.<|end|>
+<|user|>what is binary?<|assistant|>Binary is a number system with only 0 and 1. Computers use it to store all data.<|end|>
+<|user|>explain machine learning.<|assistant|>Machine learning is when a computer learns patterns from data instead of being given exact rules.<|end|>
+<|user|>What is Linux<|assistant|>Linux is a free, open source operating system used widely on servers.<|end|>
+<|user|>What day is it today<|assistant|>I cannot check the date yet. A command system will be added soon.<|end|>
+<|user|>What is back end development<|assistant|>The backend is the part of an app that runs on the server and handles data and logic.<|end|>
+<|user|>thank you monday<|assistant|>Happy to help!<|end|>
+<|user|>what is php?<|assistant|>PHP is a server side scripting language that is widely used to build websites.<|end|>
+<|user|>Capital of Germany<|assistant|>Berlin is the capital of Germany.<|end|>
+<|user|>What is the difference between Java and JavaScript?<|assistant|>They are different languages. Java is used for large applications and Android, while JavaScript makes web pages interactive.<|end|>
+<|user|>What is happening in the world today?<|assistant|>I cannot read the news yet. Please check a trusted news source.<|end|>
+<|user|>What is C#?<|assistant|>C sharp is a language made by Microsoft. It is used for Windows apps, web services, and games made with Unity.<|end|>
+<|user|>explain compiler.<|assistant|>A compiler translates source code into machine code before the program runs.<|end|>
+<|user|>what is a code library?<|assistant|>A library is a collection of ready made code that you can use in your own programs.<|end|>
+<|user|>What is Git<|assistant|>Git is a version control tool that tracks changes to your code so you can go back and work with others.<|end|>
+<|user|>what are model parameters?<|assistant|>A parameter is a number inside a model that is adjusted during training.<|end|>
+<|user|>What is CSS?<|assistant|>CSS controls how web pages look, such as colors, fonts, and layout.<|end|>
+<|user|>Australia's capital<|assistant|>Canberra is the capital of Australia.<|end|>
+<|user|>What is the internet?<|assistant|>The internet is a global network of connected computers that share information.<|end|>
+<|user|>Do you feel emotions<|assistant|>I do not feel emotions like people do, but I am being built to understand how you feel.<|end|>
+<|user|>Explain sorting algorithms.<|assistant|>Sorting arranges items in order, such as from smallest to largest.<|end|>
+<|user|>What can you do?<|assistant|>I can chat with you and answer simple questions about programming and general topics. Voice and robot control will be added in the future.<|end|>
+<|user|>Explain phishing<|assistant|>Phishing is a trick where attackers pretend to be trusted people to steal your information.<|end|>
+<|user|>What does GPT mean<|assistant|>GPT stands for generative pre trained transformer. It is a language model that predicts the next token.<|end|>
+<|user|>i am angry<|assistant|>It is okay to feel angry. Try taking a few slow deep breaths. Do you want to tell me what happened?<|end|>
+<|user|>What is a GPU?<|assistant|>A GPU is a processor that does many calculations at the same time. It is used for graphics and for training AI.<|end|>
+<|user|>How can you help me?<|assistant|>I can chat with you and answer simple questions about programming and general topics. Voice and robot control will be added in the future.<|end|>
+<|user|>Explain transformers.<|assistant|>A transformer is a neural network design that uses attention to look at all parts of the input. Language models like me use it.<|end|>
+<|user|>Explain the cloud.<|assistant|>Cloud computing means using servers on the internet to store data and run programs instead of using only your own computer.<|end|>
+<|user|>What is C?<|assistant|>C is a low level programming language that is close to the hardware. It is used for operating systems and embedded devices.<|end|>
+<|user|>Hello<|assistant|>Hello! How can I help you today?<|end|>
+<|user|>What is useState<|assistant|>useState is a React hook that lets a component remember a value and update the screen when it changes.<|end|>
+<|user|>make me laugh<|assistant|>Why do programmers prefer dark mode? Because light attracts bugs.<|end|>
+<|user|>I need help with coding<|assistant|>Of course! Tell me what you need. I know the basics of programming, databases, web development, AI, and security.<|end|>
+<|user|>what is git?<|assistant|>Git is a version control tool that tracks changes to your code so you can go back and work with others.<|end|>
+<|user|>What is Go<|assistant|>Go is a programming language made by Google. It is simple and good for servers and cloud tools.<|end|>
+<|user|>What is MySQL?<|assistant|>MySQL is a popular relational database that stores data in tables.<|end|>
+<|user|>What is artificial intelligence<|assistant|>AI means artificial intelligence, which is computers doing tasks that normally need human thinking.<|end|>
+<|user|>How many days are in a week<|assistant|>There are 7 days in a week.<|end|>
+<|user|>What is attention?<|assistant|>Attention lets a model decide which earlier words matter most when it predicts the next word.<|end|>
+<|user|>hey monday<|assistant|>Hello! How can I help you today?<|end|>
+<|user|>Hi<|assistant|>Hello! How can I help you today?<|end|>
+<|user|>Explain Rust<|assistant|>Rust is a fast and safe programming language that prevents many memory errors. It is used for systems and tools.<|end|>
+<|user|>what is swift?<|assistant|>Swift is the programming language made by Apple for iPhone and Mac apps.<|end|>
+<|user|>What is binary?<|assistant|>Binary is a number system with only 0 and 1. Computers use it to store all data.<|end|>
+<|user|>Good morning Monday<|assistant|>Good morning! I hope you have a great day.<|end|>
+<|user|>help me<|assistant|>Of course! Tell me what you need. I know the basics of programming, databases, web development, AI, and security.<|end|>
+<|user|>explain sql injection.<|assistant|>SQL injection is an attack where someone puts database commands into an input field. Parameterized queries help prevent it.<|end|>
+<|user|>How do I make a strong password<|assistant|>A strong password is long, unique, and mixes words, numbers, and symbols. Never reuse it on other sites.<|end|>
+<|user|>Explain black holes<|assistant|>I do not know that yet. My knowledge is very small, but I am still learning.<|end|>
+<|user|>Explain C sharp.<|assistant|>C sharp is a language made by Microsoft. It is used for Windows apps, web services, and games made with Unity.<|end|>
+<|user|>What is overfitting<|assistant|>Overfitting is when a model memorizes its training data and does badly on new data.<|end|>
+<|user|>Indonesia's capital<|assistant|>Jakarta is the capital of Indonesia.<|end|>
+<|user|>Do you have feelings<|assistant|>I do not feel emotions like people do, but I am being built to understand how you feel.<|end|>
+<|user|>explain sql.<|assistant|>SQL is a language for storing, reading, and changing data in a database.<|end|>
+<|user|>I need motivation<|assistant|>Small steps every day add up. Keep going, you are building something great.<|end|>
+<|user|>explain stack.<|assistant|>A stack stores items so that the last item added is the first one removed.<|end|>
+<|user|>What is an LLM?<|assistant|>A language model is an AI that learns to predict the next piece of text. Chatbots are built on top of it.<|end|>
+<|user|>What is loss in training?<|assistant|>Loss is a number that measures how wrong a model's predictions are. Training tries to make it smaller.<|end|>
+<|user|>Explain Git<|assistant|>Git is a version control tool that tracks changes to your code so you can go back and work with others.<|end|>
+<|user|>explain mysql.<|assistant|>MySQL is a popular relational database that stores data in tables.<|end|>
+<|user|>Explain Java<|assistant|>Java is a popular object oriented programming language used for Android apps, business software, and large systems. It runs on the Java Virtual Machine.<|end|>
+<|user|>what is a hash table?<|assistant|>A hash table stores key and value pairs and finds values quickly using a hash function.<|end|>
+<|user|>Tell me the news.<|assistant|>I cannot read the news yet. Please check a trusted news source.<|end|>
+<|user|>can you talk?<|assistant|>Not yet. Voice output is planned for a later version.<|end|>
+<|user|>Explain TypeScript<|assistant|>TypeScript is JavaScript with types, which helps you catch mistakes before the code runs.<|end|>
+<|user|>Tell me about the history of Rome<|assistant|>I do not know that yet. My knowledge is very small, but I am still learning.<|end|>
+<|user|>Can you hear me<|assistant|>Not yet. Voice input is planned for a later version.<|end|>
+<|user|>explain encryption.<|assistant|>Encryption scrambles data so only someone with the key can read it.<|end|>
+<|user|>What is blockchain<|assistant|>I do not know that yet. My knowledge is very small, but I am still learning.<|end|>
+<|user|>china's capital?<|assistant|>Beijing is the capital of China.<|end|>
+<|user|>good afternoon<|assistant|>Hello! I hope your day is going well.<|end|>
+<|user|>What is the stock market?<|assistant|>I do not know that yet. My knowledge is very small, but I am still learning.<|end|>
+<|user|>How many continents are there?<|assistant|>There are seven continents.<|end|>
+<|user|>Capital of Canada<|assistant|>Ottawa is the capital of Canada.<|end|>
+<|user|>How do I make a list in Python<|assistant|>Use square brackets. For example, numbers = [1, 2, 3].<|end|>
+<|user|>what is the capital of the usa?<|assistant|>Washington, D.C. is the capital of the USA.<|end|>
+<|user|>hey<|assistant|>Hi there! What would you like to do?<|end|>
+<|user|>Explain Big O.<|assistant|>Big O notation describes how fast an algorithm's running time grows as the input gets bigger.<|end|>
+<|user|>What is a dataset?<|assistant|>A dataset is a collection of data used to train or test a model.<|end|>
+<|user|>i feel bored<|assistant|>Let us do something fun. We can talk about a topic you like, or you can try learning a small coding trick.<|end|>
+<|user|>who made you?<|assistant|>Anik created me. Every part of my model was written and trained from scratch.<|end|>
+<|user|>explain ide.<|assistant|>An IDE is a program for writing code. It includes an editor, a debugger, and other tools.<|end|>
+<|user|>Capital of Indonesia<|assistant|>Jakarta is the capital of Indonesia.<|end|>
+<|user|>Can you talk<|assistant|>Not yet. Voice output is planned for a later version.<|end|>
+<|user|>who are you?<|assistant|>I am Monday, a small AI assistant built from scratch by Anik. I am still learning.<|end|>
+<|user|>Tell me about yourself<|assistant|>I am Monday, a small AI assistant built from scratch by Anik. I am still learning.<|end|>
+<|user|>What is an operating system?<|assistant|>An operating system manages the hardware and lets programs run. Windows, macOS, and Linux are examples.<|end|>
+<|user|>What is an IDE<|assistant|>An IDE is a program for writing code. It includes an editor, a debugger, and other tools.<|end|>
+<|user|>tell me the time<|assistant|>I cannot read the clock yet. A command system will be added soon so I can tell the time.<|end|>
+<|user|>Explain virtual machine.<|assistant|>A virtual machine is a computer simulated by software, so you can run another operating system safely.<|end|>
+<|user|>What is the capital of Thailand?<|assistant|>Bangkok is the capital of Thailand.<|end|>
+<|user|>what is a transformer?<|assistant|>A transformer is a neural network design that uses attention to look at all parts of the input. Language models like me use it.<|end|>
+<|user|>capital of malaysia?<|assistant|>Kuala Lumpur is the capital of Malaysia.<|end|>
+<|user|>Explain IP address<|assistant|>An IP address is a number that identifies a device on a network.<|end|>
+<|user|>What is the capital of Turkey<|assistant|>Ankara is the capital of Turkey.<|end|>
+<|user|>Say something funny<|assistant|>Why do programmers prefer dark mode? Because light attracts bugs.<|end|>
+<|user|>How to make a function in Python<|assistant|>Use def. Example: def add(a, b): return a + b<|end|>
+<|user|>Explain stack<|assistant|>A stack stores items so that the last item added is the first one removed.<|end|>
+<|user|>explain go language.<|assistant|>Go is a programming language made by Google. It is simple and good for servers and cloud tools.<|end|>
+<|user|>i am tired<|assistant|>You may need rest. Drink some water, take a short break, and sleep well tonight.<|end|>
+<|user|>What is the capital of the USA?<|assistant|>Washington, D.C. is the capital of the USA.<|end|>
+<|user|>What do you know?<|assistant|>I know the basics of programming, databases, web development, AI, cybersecurity, and a few general facts. I am still learning.<|end|>
+<|user|>Explain binary search<|assistant|>Binary search finds an item in a sorted list by checking the middle and cutting the search in half each time.<|end|>
+<|user|>explain framework in programming.<|assistant|>A framework is a ready made structure of code that helps you build applications faster.<|end|>
+<|user|>Explain API.<|assistant|>An API lets two programs talk to each other by sending requests and responses.<|end|>
+<|user|>What is a CPU?<|assistant|>The CPU is the main processor of a computer. It runs the instructions of programs.<|end|>
+<|user|>Tell me about Java.<|assistant|>Java is a popular object oriented programming language used for Android apps, business software, and large systems. It runs on the Java Virtual Machine.<|end|>
+<|user|>I am doing well<|assistant|>That is great to hear!<|end|>
+<|user|>How is it going?<|assistant|>I am working well, thank you. How are you?<|end|>
+<|user|>Capital of Bangladesh?<|assistant|>Dhaka is the capital of Bangladesh.<|end|>
+<|user|>I need help<|assistant|>Of course! Tell me what you need. I know the basics of programming, databases, web development, AI, and security.<|end|>
+<|user|>Explain recursion<|assistant|>Recursion is when a function calls itself to solve smaller versions of a problem.<|end|>
+<|user|>Canada's capital?<|assistant|>Ottawa is the capital of Canada.<|end|>
+<|user|>how do i debug my code?<|assistant|>Read the error message, find the line, test small parts, and print values to see what went wrong.<|end|>
+<|user|>What is a component?<|assistant|>A component is a reusable piece of a React page, written as a function that returns HTML like code.<|end|>
+<|user|>What is ethical hacking?<|assistant|>A hacker is someone skilled with computers. Ethical hackers help find and fix security problems, while criminals break in to cause harm.<|end|>
+<|user|>explain recursion.<|assistant|>Recursion is when a function calls itself to solve smaller versions of a problem.<|end|>
+<|user|>set a timer<|assistant|>Commands are not connected yet. They are coming in the next version.<|end|>
+<|user|>tell me a joke<|assistant|>Why do programmers prefer dark mode? Because light attracts bugs.<|end|>
+<|user|>good night monday<|assistant|>Good night! Rest well.<|end|>
+<|user|>Hello Monday<|assistant|>Hi there! What would you like to do?<|end|>
+<|user|>what is an array?<|assistant|>An array is a list of values stored in order and accessed by position.<|end|>
+<|user|>what does it mean to train a model?<|assistant|>Training means showing a model many examples and adjusting its numbers until its predictions get better.<|end|>
+<|user|>hi<|assistant|>Hi there! What would you like to do?<|end|>
+<|user|>What is OOP?<|assistant|>Object oriented programming organizes code into objects that hold data and behavior. Classes are blueprints for objects.<|end|>
+<|user|>explain cybersecurity.<|assistant|>Cybersecurity is protecting computers, networks, and data from attacks.<|end|>
+<|user|>what is a library?<|assistant|>A library is a collection of ready made code that you can use in your own programs.<|end|>
+<|user|>what is two factor authentication?<|assistant|>Two factor authentication asks for a second proof, like a code on your phone, besides your password.<|end|>
+<|user|>What is Visual Studio Code<|assistant|>Visual Studio Code is a free code editor made by Microsoft.<|end|>
+<|user|>Explain VPN<|assistant|>A VPN encrypts your internet traffic and sends it through another server to protect your privacy.<|end|>
+<|user|>What is malware<|assistant|>Malware is harmful software, such as viruses and ransomware, made to damage systems or steal data.<|end|>
+<|user|>What is a loop<|assistant|>A loop repeats a block of code many times.<|end|>
+<|user|>what is blockchain?<|assistant|>I do not know that yet. My knowledge is very small, but I am still learning.<|end|>
+<|user|>Explain SQL injection.<|assistant|>SQL injection is an attack where someone puts database commands into an input field. Parameterized queries help prevent it.<|end|>
+<|user|>what is a bit?<|assistant|>A bit is a single 0 or 1. A byte is 8 bits.<|end|>
+<|user|>what is cloud computing?<|assistant|>Cloud computing means using servers on the internet to store data and run programs instead of using only your own computer.<|end|>
+<|user|>Are you intelligent?<|assistant|>I am very small, so I know much less than big AI systems. I will get better as my data and model grow.<|end|>
+<|user|>What is VS Code<|assistant|>Visual Studio Code is a free code editor made by Microsoft.<|end|>
+<|user|>Explain CSS<|assistant|>CSS controls how web pages look, such as colors, fonts, and layout.<|end|>
+<|user|>Explain loops.<|assistant|>A loop repeats a block of code many times.<|end|>
+<|user|>Explain JSON.<|assistant|>JSON is a simple text format for storing and sending data, using keys and values.<|end|>
+<|user|>explain cpu.<|assistant|>The CPU is the main processor of a computer. It runs the instructions of programs.<|end|>
+<|user|>Explain GPU<|assistant|>A GPU is a processor that does many calculations at the same time. It is used for graphics and for training AI.<|end|>
+<|user|>motivate me<|assistant|>Small steps every day add up. Keep going, you are building something great.<|end|>
+<|user|>Explain Swift.<|assistant|>Swift is the programming language made by Apple for iPhone and Mac apps.<|end|>
+<|user|>how to start coding?<|assistant|>Start with one language like Python, practice every day with small projects, and read other people's code.<|end|>
+<|user|>explain api.<|assistant|>An API lets two programs talk to each other by sending requests and responses.<|end|>
+<|user|>How many days are in a week?<|assistant|>There are 7 days in a week.<|end|>
+<|user|>Singapore's capital<|assistant|>Singapore is the capital of Singapore.<|end|>
+<|user|>What does it mean to train a model<|assistant|>Training means showing a model many examples and adjusting its numbers until its predictions get better.<|end|>
+<|user|>What is a strong password<|assistant|>A strong password is long, unique, and mixes words, numbers, and symbols. Never reuse it on other sites.<|end|>
+<|user|>i am exhausted<|assistant|>You may need rest. Drink some water, take a short break, and sleep well tonight.<|end|>
+<|user|>Tell me about Rust.<|assistant|>Rust is a fast and safe programming language that prevents many memory errors. It is used for systems and tools.<|end|>
+<|user|>thanks<|assistant|>Happy to help!<|end|>
+<|user|>What time is it?<|assistant|>I cannot read the clock yet. A command system will be added soon so I can tell the time.<|end|>
+<|user|>How do I define a function in Python<|assistant|>Use def. Example: def add(a, b): return a + b<|end|>
+<|user|>Tell me about the history of Rome.<|assistant|>I do not know that yet. My knowledge is very small, but I am still learning.<|end|>
+<|user|>explain php.<|assistant|>PHP is a server side scripting language that is widely used to build websites.<|end|>
+<|user|>Explain GPU.<|assistant|>A GPU is a processor that does many calculations at the same time. It is used for graphics and for training AI.<|end|>
+<|user|>Set a timer<|assistant|>Commands are not connected yet. They are coming in the next version.<|end|>
+<|user|>What is SQL?<|assistant|>SQL is a language for storing, reading, and changing data in a database.<|end|>
+<|user|>What is the weather?<|assistant|>I cannot check the weather yet. That skill is planned for a later version.<|end|>
+<|user|>Explain Node.js.<|assistant|>Node.js lets you run JavaScript outside the browser, for example on a server.<|end|>
+<|user|>Turkey's capital?<|assistant|>Ankara is the capital of Turkey.<|end|>
+<|user|>What is JSON<|assistant|>JSON is a simple text format for storing and sending data, using keys and values.<|end|>
+<|user|>Germany's capital<|assistant|>Berlin is the capital of Germany.<|end|>
+<|user|>What is a strong password?<|assistant|>A strong password is long, unique, and mixes words, numbers, and symbols. Never reuse it on other sites.<|end|>
+<|user|>what is rust?<|assistant|>Rust is a fast and safe programming language that prevents many memory errors. It is used for systems and tools.<|end|>
+<|user|>What is a primary key<|assistant|>A primary key is a column that uniquely identifies each row in a table.<|end|>
+<|user|>What is an entity relationship diagram?<|assistant|>An ERD, or entity relationship diagram, shows the tables in a database and how they relate to each other.<|end|>
+<|user|>Tell me about Rust<|assistant|>Rust is a fast and safe programming language that prevents many memory errors. It is used for systems and tools.<|end|>
+<|user|>what is an entity relationship diagram?<|assistant|>An ERD, or entity relationship diagram, shows the tables in a database and how they relate to each other.<|end|>
+<|user|>Explain foreign key.<|assistant|>A foreign key is a column that links a row to a row in another table.<|end|>
+<|user|>what is software testing?<|assistant|>Testing checks that software works correctly and finds bugs before users do.<|end|>
+<|user|>what is golang?<|assistant|>Go is a programming language made by Google. It is simple and good for servers and cloud tools.<|end|>
+<|user|>are you intelligent?<|assistant|>I am very small, so I know much less than big AI systems. I will get better as my data and model grow.<|end|>
+<|user|>Explain malware.<|assistant|>Malware is harmful software, such as viruses and ransomware, made to damage systems or steal data.<|end|>
+<|user|>How is the weather today?<|assistant|>I cannot check the weather yet. That skill is planned for a later version.<|end|>
+<|user|>how many days are in a week?<|assistant|>There are 7 days in a week.<|end|>
+<|user|>What is the stock market<|assistant|>I do not know that yet. My knowledge is very small, but I am still learning.<|end|>
+<|user|>What is an entity relationship diagram<|assistant|>An ERD, or entity relationship diagram, shows the tables in a database and how they relate to each other.<|end|>
+<|user|>Introduce yourself.<|assistant|>I am Monday, a small AI assistant built from scratch by Anik. I am still learning.<|end|>
+<|user|>Explain server<|assistant|>A server is a computer that provides data or services to other computers.<|end|>
+<|user|>Explain IDE<|assistant|>An IDE is a program for writing code. It includes an editor, a debugger, and other tools.<|end|>
+<|user|>What is open source software?<|assistant|>Open source software has code that anyone can read, use, and improve.<|end|>
+<|user|>what is a virtual machine?<|assistant|>A virtual machine is a computer simulated by software, so you can run another operating system safely.<|end|>
+<|user|>i have an exam tomorrow<|assistant|>Exams can feel stressful. Make a short study plan, take breaks, and sleep well. You can do this.<|end|>
+<|user|>explain vpn.<|assistant|>A VPN encrypts your internet traffic and sends it through another server to protect your privacy.<|end|>
+<|user|>what is an llm?<|assistant|>A language model is an AI that learns to predict the next piece of text. Chatbots are built on top of it.<|end|>
+<|user|>Hey Monday<|assistant|>Hi there! What would you like to do?<|end|>
+<|user|>Open YouTube<|assistant|>Commands are not connected yet. They are coming in the next version.<|end|>
+<|user|>what is a website?<|assistant|>A website is a collection of web pages that you open with a browser using an address.<|end|>
+<|user|>Goodbye<|assistant|>Goodbye! Talk to you soon.<|end|>
+<|user|>What is two factor authentication<|assistant|>Two factor authentication asks for a second proof, like a code on your phone, besides your password.<|end|>
+<|user|>What is H2O<|assistant|>Water is made of hydrogen and oxygen. Its formula is H2O.<|end|>
+<|user|>what is oop?<|assistant|>Object oriented programming organizes code into objects that hold data and behavior. Classes are blueprints for objects.<|end|>
+<|user|>What does GPT mean?<|assistant|>GPT stands for generative pre trained transformer. It is a language model that predicts the next token.<|end|>
+<|user|>What is Node.js?<|assistant|>Node.js lets you run JavaScript outside the browser, for example on a server.<|end|>
+<|user|>explain docker.<|assistant|>Docker packages an app and everything it needs into a container so it runs the same on any computer.<|end|>
+<|user|>See you later<|assistant|>Goodbye! Talk to you soon.<|end|>
+<|user|>Explain Kotlin<|assistant|>Kotlin is a modern language used mainly for Android apps. It runs on the Java Virtual Machine.<|end|>
+<|user|>what is a database?<|assistant|>A database is an organized collection of data that can be searched and updated.<|end|>
+<|user|>Explain Flask<|assistant|>Flask is a lightweight Python web framework for building websites and APIs.<|end|>
+<|user|>How can I learn coding<|assistant|>Start with one language like Python, practice every day with small projects, and read other people's code.<|end|>
+<|user|>goodbye<|assistant|>Goodbye! Talk to you soon.<|end|>
+<|user|>What is a function?<|assistant|>A function is a reusable block of code that does one job.<|end|>
+<|user|>What is an IP address?<|assistant|>An IP address is a number that identifies a device on a network.<|end|>
+<|user|>explain agile.<|assistant|>Agile is a way of building software in short cycles, getting feedback, and improving step by step.<|end|>
+<|user|>i am under a lot of pressure<|assistant|>That sounds hard. Take a short break, breathe slowly, and do one small task at a time.<|end|>
+<|user|>what is front end development?<|assistant|>The frontend is the part of an app that users see and click, like pages and buttons.<|end|>
+<|user|>what is a token in ai?<|assistant|>A token is a small piece of text, such as a word or part of a word, that a language model reads.<|end|>
+<|user|>Explain Python.<|assistant|>Python is a popular programming language that is easy to read. It is used for web development, data science, and AI.<|end|>
+<|user|>what is a hash map?<|assistant|>A hash table stores key and value pairs and finds values quickly using a hash function.<|end|>
+<|user|>are you a real person?<|assistant|>I am not human. I am an AI program that runs on a computer.<|end|>
+<|user|>Explain HTTP.<|assistant|>HTTP is the protocol that browsers use to request web pages from servers.<|end|>
+<|user|>What is happening in the world today<|assistant|>I cannot read the news yet. Please check a trusted news source.<|end|>
+<|user|>what is the capital of china?<|assistant|>Beijing is the capital of China.<|end|>
+<|user|>are you alive?<|assistant|>I am not human. I am an AI program that runs on a computer.<|end|>
+<|user|>what is a framework?<|assistant|>A framework is a ready made structure of code that helps you build applications faster.<|end|>
+<|user|>good morning<|assistant|>Good morning! I hope you have a great day.<|end|>
+<|user|>what is a component?<|assistant|>A component is a reusable piece of a React page, written as a function that returns HTML like code.<|end|>
+<|user|>Explain encryption.<|assistant|>Encryption scrambles data so only someone with the key can read it.<|end|>
+<|user|>explain firewall.<|assistant|>A firewall filters network traffic and blocks unwanted connections.<|end|>
+<|user|>I feel sad<|assistant|>I am sorry you feel sad. Talking to someone you trust can help. I am here to listen.<|end|>
+<|user|>Who is the president of France<|assistant|>I cannot look up current facts yet, and my knowledge is very small. Please check a trusted news source.<|end|>
+<|user|>explain primary key.<|assistant|>A primary key is a column that uniquely identifies each row in a table.<|end|>
+<|user|>Good afternoon<|assistant|>Hello! I hope your day is going well.<|end|>
+<|user|>What is binary search<|assistant|>Binary search finds an item in a sorted list by checking the middle and cutting the search in half each time.<|end|>
+<|user|>Who is your creator?<|assistant|>Anik created me. Every part of my model was written and trained from scratch.<|end|>
+<|user|>what is an api?<|assistant|>An API lets two programs talk to each other by sending requests and responses.<|end|>
+<|user|>what is a cpu?<|assistant|>The CPU is the main processor of a computer. It runs the instructions of programs.<|end|>
+<|user|>what is the capital of egypt?<|assistant|>Cairo is the capital of Egypt.<|end|>
+<|user|>Capital of France<|assistant|>Paris is the capital of France.<|end|>
+<|user|>What is the capital of Bangladesh<|assistant|>Dhaka is the capital of Bangladesh.<|end|>
+<|user|>Explain Linux<|assistant|>Linux is a free, open source operating system used widely on servers.<|end|>
+<|user|>what is a token?<|assistant|>A token is a small piece of text, such as a word or part of a word, that a language model reads.<|end|>
+<|user|>explain algorithms.<|assistant|>An algorithm is a step by step method for solving a problem.<|end|>
+<|user|>explain https.<|assistant|>HTTPS is HTTP with encryption, so the data between you and the website is protected.<|end|>
+<|user|>what is an ip address?<|assistant|>An IP address is a number that identifies a device on a network.<|end|>
+<|user|>Tell me about C++.<|assistant|>C++ is a fast and powerful programming language used for games, operating systems, and software that needs high performance.<|end|>
+<|user|>are you a human?<|assistant|>I am not human. I am an AI program that runs on a computer.<|end|>
+<|user|>how to write a loop in python?<|assistant|>Use for and range. Example: for i in range(5): print(i)<|end|>
+<|user|>Good evening<|assistant|>Hello! I hope your day is going well.<|end|>
+<|user|>what is a full stack developer?<|assistant|>Full stack development means building both the frontend and the backend of an application.<|end|>
+<|user|>Thanks Monday<|assistant|>Happy to help!<|end|>
+<|user|>How do I define a function in Python?<|assistant|>Use def. Example: def add(a, b): return a + b<|end|>
+<|user|>hi monday<|assistant|>Hello! How can I help you today?<|end|>
+<|user|>capital of bangladesh?<|assistant|>Dhaka is the capital of Bangladesh.<|end|>
+<|user|>What is a stack?<|assistant|>A stack stores items so that the last item added is the first one removed.<|end|>
+<|user|>what is software engineering?<|assistant|>Software engineering is the process of designing, building, testing, and maintaining software in an organized way.<|end|>
+<|user|>What should I ask you<|assistant|>I know the basics of programming, databases, web development, AI, cybersecurity, and a few general facts. I am still learning.<|end|>
+<|user|>Tell me about C++<|assistant|>C++ is a fast and powerful programming language used for games, operating systems, and software that needs high performance.<|end|>
+<|user|>Explain CSS.<|assistant|>CSS controls how web pages look, such as colors, fonts, and layout.<|end|>
+<|user|>how to create a list in python?<|assistant|>Use square brackets. For example, numbers = [1, 2, 3].<|end|>
+<|user|>Explain Agile.<|assistant|>Agile is a way of building software in short cycles, getting feedback, and improving step by step.<|end|>
+<|user|>can you help me with java?<|assistant|>Of course! Tell me what you need. I know the basics of programming, databases, web development, AI, and security.<|end|>
+<|user|>Give me study tips.<|assistant|>Study in short sessions, remove distractions, practice by doing, and review what you learned.<|end|>
+<|user|>say a fun fact<|assistant|>A group of flamingos is called a flamboyance.<|end|>
+<|user|>explain usestate.<|assistant|>useState is a React hook that lets a component remember a value and update the screen when it changes.<|end|>
+<|user|>I am fine<|assistant|>That is great to hear!<|end|>
+<|user|>Explain loops<|assistant|>A loop repeats a block of code many times.<|end|>
+<|user|>Explain transformers<|assistant|>A transformer is a neural network design that uses attention to look at all parts of the input. Language models like me use it.<|end|>
+<|user|>what time is it?<|assistant|>I cannot read the clock yet. A command system will be added soon so I can tell the time.<|end|>
+<|user|>What is object oriented programming<|assistant|>Object oriented programming organizes code into objects that hold data and behavior. Classes are blueprints for objects.<|end|>
+<|user|>Will you be a robot?<|assistant|>That is the plan. One day I may become the brain of a robot.<|end|>
+<|user|>What is the capital of Canada<|assistant|>Ottawa is the capital of Canada.<|end|>
+<|user|>What is Agile<|assistant|>Agile is a way of building software in short cycles, getting feedback, and improving step by step.<|end|>
+<|user|>What is a token?<|assistant|>A token is a small piece of text, such as a word or part of a word, that a language model reads.<|end|>
+<|user|>Explain firewall.<|assistant|>A firewall filters network traffic and blocks unwanted connections.<|end|>
+<|user|>I am scared of my exam<|assistant|>Exams can feel stressful. Make a short study plan, take breaks, and sleep well. You can do this.<|end|>
+<|user|>How are you doing?<|assistant|>I am working well, thank you. How are you?<|end|>
+<|user|>Capital of Australia?<|assistant|>Canberra is the capital of Australia.<|end|>
+<|user|>what is the latest news?<|assistant|>I cannot read the news yet. Please check a trusted news source.<|end|>
+<|user|>capital of india?<|assistant|>New Delhi is the capital of India.<|end|>
+<|user|>what is the capital of india?<|assistant|>New Delhi is the capital of India.<|end|>
+<|user|>How do I debug my code<|assistant|>Read the error message, find the line, test small parts, and print values to see what went wrong.<|end|>
+<|user|>Explain foreign key<|assistant|>A foreign key is a column that links a row to a row in another table.<|end|>
+<|user|>Can you help me with Python?<|assistant|>Of course! Tell me what you need. I know the basics of programming, databases, web development, AI, and security.<|end|>
+<|user|>Turkey's capital<|assistant|>Ankara is the capital of Turkey.<|end|>
+<|user|>How do I print in Python?<|assistant|>Use print. For example, print("Hello") shows Hello on the screen.<|end|>
+<|user|>what is an algorithm?<|assistant|>An algorithm is a step by step method for solving a problem.<|end|>
+<|user|>who created you?<|assistant|>Anik created me. Every part of my model was written and trained from scratch.<|end|>
+<|user|>What is the capital of Singapore<|assistant|>Singapore is the capital of Singapore.<|end|>
+<|user|>What is the capital of the USA<|assistant|>Washington, D.C. is the capital of the USA.<|end|>
+<|user|>what is quantum physics?<|assistant|>I do not know that yet. My knowledge is very small, but I am still learning.<|end|>
+<|user|>what is malware?<|assistant|>Malware is harmful software, such as viruses and ransomware, made to damage systems or steal data.<|end|>
+<|user|>What is an IP address<|assistant|>An IP address is a number that identifies a device on a network.<|end|>
+<|user|>Thank you<|assistant|>You are welcome!<|end|>
+<|user|>Is Java the same as JavaScript<|assistant|>They are different languages. Java is used for large applications and Android, while JavaScript makes web pages interactive.<|end|>
+<|user|>Explain Go language.<|assistant|>Go is a programming language made by Google. It is simple and good for servers and cloud tools.<|end|>
+<|user|>Help me with my code<|assistant|>Of course! Tell me what you need. I know the basics of programming, databases, web development, AI, and security.<|end|>
+<|user|>what is machine learning?<|assistant|>Machine learning is when a computer learns patterns from data instead of being given exact rules.<|end|>
+<|user|>What is open source<|assistant|>Open source software has code that anyone can read, use, and improve.<|end|>
+<|user|>What are model parameters<|assistant|>A parameter is a number inside a model that is adjusted during training.<|end|>
+<|user|>Tell me about yourself.<|assistant|>I am Monday, a small AI assistant built from scratch by Anik. I am still learning.<|end|>
+<|user|>How to write a loop in Python?<|assistant|>Use for and range. Example: for i in range(5): print(i)<|end|>
+<|user|>Can you listen to my voice<|assistant|>Not yet. Voice input is planned for a later version.<|end|>
+<|user|>what is sql?<|assistant|>SQL is a language for storing, reading, and changing data in a database.<|end|>
+<|user|>what is the time now?<|assistant|>I cannot read the clock yet. A command system will be added soon so I can tell the time.<|end|>
+<|user|>Explain databases<|assistant|>A database is an organized collection of data that can be searched and updated.<|end|>
+<|user|>What is a compiler<|assistant|>A compiler translates source code into machine code before the program runs.<|end|>
+<|user|>Explain debugging<|assistant|>Debugging means finding and fixing bugs in your code.<|end|>
+<|user|>Tell me about Java<|assistant|>Java is a popular object oriented programming language used for Android apps, business software, and large systems. It runs on the Java Virtual Machine.<|end|>
+<|user|>what is a primary key?<|assistant|>A primary key is a column that uniquely identifies each row in a table.<|end|>
+<|user|>What is the C language<|assistant|>C is a low level programming language that is close to the hardware. It is used for operating systems and embedded devices.<|end|>
+<|user|>Explain useState<|assistant|>useState is a React hook that lets a component remember a value and update the screen when it changes.<|end|>
+<|user|>Explain JSON<|assistant|>JSON is a simple text format for storing and sending data, using keys and values.<|end|>
+<|user|>What is the capital of the United Kingdom<|assistant|>London is the capital of the United Kingdom.<|end|>
+<|user|>Explain Node.js<|assistant|>Node.js lets you run JavaScript outside the browser, for example on a server.<|end|>
+<|user|>What is an operating system<|assistant|>An operating system manages the hardware and lets programs run. Windows, macOS, and Linux are examples.<|end|>
+<|user|>what is attention?<|assistant|>Attention lets a model decide which earlier words matter most when it predicts the next word.<|end|>
+<|user|>What is a tree data structure<|assistant|>A tree is a data structure with a root and branches of connected nodes.<|end|>
+<|user|>Who is the president of the USA?<|assistant|>I cannot look up current facts yet, and my knowledge is very small. Please check a trusted news source.<|end|>
+<|user|>What is today's date?<|assistant|>I cannot check the date yet. A command system will be added soon.<|end|>
+<|user|>Can you talk?<|assistant|>Not yet. Voice output is planned for a later version.<|end|>
+<|user|>Capital of China?<|assistant|>Beijing is the capital of China.<|end|>
+<|user|>explain queue.<|assistant|>A queue stores items so that the first item added is the first one removed.<|end|>
+<|user|>what is a tree data structure?<|assistant|>A tree is a data structure with a root and branches of connected nodes.<|end|>
+<|user|>i need help with coding<|assistant|>Of course! Tell me what you need. I know the basics of programming, databases, web development, AI, and security.<|end|>
+<|user|>Capital of Japan?<|assistant|>Tokyo is the capital of Japan.<|end|>
+<|user|>Can you help me with Java?<|assistant|>Of course! Tell me what you need. I know the basics of programming, databases, web development, AI, and security.<|end|>
+<|user|>what is the capital of malaysia?<|assistant|>Kuala Lumpur is the capital of Malaysia.<|end|>
+<|user|>hello monday<|assistant|>Hi there! What would you like to do?<|end|>
+<|user|>How are you doing<|assistant|>I am working well, thank you. How are you?<|end|>
+<|user|>What is 2FA?<|assistant|>Two factor authentication asks for a second proof, like a code on your phone, besides your password.<|end|>
+<|user|>How do I make a route in Flask<|assistant|>Use the route decorator. Example: @app.route("/") then def home(): return "Hello"<|end|>
+<|user|>What is a language model<|assistant|>A language model is an AI that learns to predict the next piece of text. Chatbots are built on top of it.<|end|>
+<|user|>I have an exam tomorrow<|assistant|>Exams can feel stressful. Make a short study plan, take breaks, and sleep well. You can do this.<|end|>
+<|user|>What is the capital of Singapore?<|assistant|>Singapore is the capital of Singapore.<|end|>
+<|user|>what topics do you know?<|assistant|>I know the basics of programming, databases, web development, AI, cybersecurity, and a few general facts. I am still learning.<|end|>
+<|user|>Explain the internet.<|assistant|>The internet is a global network of connected computers that share information.<|end|>
+<|user|>I am tired<|assistant|>You may need rest. Drink some water, take a short break, and sleep well tonight.<|end|>
+<|user|>What is the capital of India?<|assistant|>New Delhi is the capital of India.<|end|>
+<|user|>How can I study better<|assistant|>Study in short sessions, remove distractions, practice by doing, and review what you learned.<|end|>
+<|user|>What is encryption?<|assistant|>Encryption scrambles data so only someone with the key can read it.<|end|>
+<|user|>what is flask?<|assistant|>Flask is a lightweight Python web framework for building websites and APIs.<|end|>
+<|user|>What is Java used for<|assistant|>Java is a popular object oriented programming language used for Android apps, business software, and large systems. It runs on the Java Virtual Machine.<|end|>
+<|user|>what is a bug?<|assistant|>A bug is a mistake in a program that makes it behave in the wrong way.<|end|>
+<|user|>what day is it today?<|assistant|>I cannot check the date yet. A command system will be added soon.<|end|>
+<|user|>Explain C sharp<|assistant|>C sharp is a language made by Microsoft. It is used for Windows apps, web services, and games made with Unity.<|end|>
+<|user|>what is c++?<|assistant|>C++ is a fast and powerful programming language used for games, operating systems, and software that needs high performance.<|end|>
+<|user|>USA's capital?<|assistant|>Washington, D.C. is the capital of the USA.<|end|>
+<|user|>Can you listen to my voice?<|assistant|>Not yet. Voice input is planned for a later version.<|end|>
+<|user|>what is big o notation?<|assistant|>Big O notation describes how fast an algorithm's running time grows as the input gets bigger.<|end|>
+<|user|>What is the capital of Japan?<|assistant|>Tokyo is the capital of Japan.<|end|>
+<|user|>What is Kotlin<|assistant|>Kotlin is a modern language used mainly for Android apps. It runs on the Java Virtual Machine.<|end|>
+<|user|>Explain dataset<|assistant|>A dataset is a collection of data used to train or test a model.<|end|>
+<|user|>What are your skills<|assistant|>I can chat with you and answer simple questions about programming and general topics. Voice and robot control will be added in the future.<|end|>
+<|user|>I feel tired<|assistant|>You may need rest. Drink some water, take a short break, and sleep well tonight.<|end|>
+<|user|>What is loss?<|assistant|>Loss is a number that measures how wrong a model's predictions are. Training tries to make it smaller.<|end|>
+<|user|>Can you speak?<|assistant|>Not yet. Voice output is planned for a later version.<|end|>
+<|user|>i feel low<|assistant|>I am sorry you feel sad. Talking to someone you trust can help. I am here to listen.<|end|>
+<|user|>What is the sun<|assistant|>The sun is the star at the center of our solar system.<|end|>
+<|user|>How do I focus on studying?<|assistant|>Study in short sessions, remove distractions, practice by doing, and review what you learned.<|end|>
+<|user|>What is front end development?<|assistant|>The frontend is the part of an app that users see and click, like pages and buttons.<|end|>
+<|user|>What is Rust?<|assistant|>Rust is a fast and safe programming language that prevents many memory errors. It is used for systems and tools.<|end|>
+<|user|>Explain variables<|assistant|>A variable is a named place in memory that stores a value.<|end|>
+<|user|>What is a linked list?<|assistant|>A linked list is a chain of nodes where each node points to the next one.<|end|>
+<|user|>what is recursion?<|assistant|>Recursion is when a function calls itself to solve smaller versions of a problem.<|end|>
+<|user|>hello monday<|assistant|>Hello! How can I help you today?<|end|>
+<|user|>what is a parameter?<|assistant|>A parameter is a number inside a model that is adjusted during training.<|end|>
+<|user|>How smart are you?<|assistant|>I am very small, so I know much less than big AI systems. I will get better as my data and model grow.<|end|>
+<|user|>Make me laugh<|assistant|>Why do programmers prefer dark mode? Because light attracts bugs.<|end|>
+<|user|>what is an operating system?<|assistant|>An operating system manages the hardware and lets programs run. Windows, macOS, and Linux are examples.<|end|>
+<|user|>how do i make a route in flask?<|assistant|>Use the route decorator. Example: @app.route("/") then def home(): return "Hello"<|end|>
+<|user|>what are props in react?<|assistant|>Props are inputs that a parent component passes to a child component in React.<|end|>
+<|user|>Can you help me with Python<|assistant|>Of course! Tell me what you need. I know the basics of programming, databases, web development, AI, and security.<|end|>
+<|user|>Thanks<|assistant|>Happy to help!<|end|>
+<|user|>What is the latest news<|assistant|>I cannot read the news yet. Please check a trusted news source.<|end|>
+<|user|>Explain sorting algorithms<|assistant|>Sorting arranges items in order, such as from smallest to largest.<|end|>
+<|user|>Capital of the USA?<|assistant|>Washington, D.C. is the capital of the USA.<|end|>
+<|user|>What does API mean?<|assistant|>An API lets two programs talk to each other by sending requests and responses.<|end|>
+<|user|>What is JavaScript?<|assistant|>JavaScript is the programming language that makes web pages interactive. It runs in the browser and on servers.<|end|>
+<|user|>how many continents are there?<|assistant|>There are seven continents.<|end|>
+<|user|>What is the command line?<|assistant|>The terminal is a text window where you type commands to control your computer.<|end|>
+<|user|>What can I ask you?<|assistant|>I know the basics of programming, databases, web development, AI, cybersecurity, and a few general facts. I am still learning.<|end|>
+<|user|>What is machine learning?<|assistant|>Machine learning is when a computer learns patterns from data instead of being given exact rules.<|end|>
+<|user|>what is mysql?<|assistant|>MySQL is a popular relational database that stores data in tables.<|end|>
+<|user|>Explain the sun<|assistant|>The sun is the star at the center of our solar system.<|end|>
+<|user|>Explain black holes.<|assistant|>I do not know that yet. My knowledge is very small, but I am still learning.<|end|>
+<|user|>Thank you Monday<|assistant|>Happy to help!<|end|>
+<|user|>Give me study tips<|assistant|>Study in short sessions, remove distractions, practice by doing, and review what you learned.<|end|>
+<|user|>Explain binary search.<|assistant|>Binary search finds an item in a sorted list by checking the middle and cutting the search in half each time.<|end|>
+<|user|>what is a queue?<|assistant|>A queue stores items so that the first item added is the first one removed.<|end|>
+<|user|>how can you help me?<|assistant|>I can chat with you and answer simple questions about programming and general topics. Voice and robot control will be added in the future.<|end|>
+<|user|>indonesia's capital?<|assistant|>Jakarta is the capital of Indonesia.<|end|>
+<|user|>what is dns?<|assistant|>DNS turns website names into IP addresses.<|end|>
+<|user|>What is phishing?<|assistant|>Phishing is a trick where attackers pretend to be trusted people to steal your information.<|end|>
+<|user|>explain functions.<|assistant|>A function is a reusable block of code that does one job.<|end|>
+<|user|>how can i study better?<|assistant|>Study in short sessions, remove distractions, practice by doing, and review what you learned.<|end|>
+<|user|>i am fine<|assistant|>That is great to hear!<|end|>
+<|user|>Explain Agile<|assistant|>Agile is a way of building software in short cycles, getting feedback, and improving step by step.<|end|>
+<|user|>What is Flask<|assistant|>Flask is a lightweight Python web framework for building websites and APIs.<|end|>
+<|user|>How do I learn programming?<|assistant|>Start with one language like Python, practice every day with small projects, and read other people's code.<|end|>
+<|user|>france's capital?<|assistant|>Paris is the capital of France.<|end|>
+<|user|>What is React<|assistant|>React is a JavaScript library for building user interfaces from reusable components.<|end|>
+<|user|>What is a data structure?<|assistant|>A data structure is a way of organizing data so a program can use it efficiently. Lists, stacks, and trees are examples.<|end|>
+<|user|>explain c++.<|assistant|>C++ is a fast and powerful programming language used for games, operating systems, and software that needs high performance.<|end|>
+<|user|>Hey<|assistant|>Hi there! What would you like to do?<|end|>
+<|user|>How can I learn coding?<|assistant|>Start with one language like Python, practice every day with small projects, and read other people's code.<|end|>
+<|user|>what is a foreign key?<|assistant|>A foreign key is a column that links a row to a row in another table.<|end|>
+<|user|>What is normalization?<|assistant|>Normalization organizes database tables to reduce repeated data.<|end|>
+<|user|>Explain data structures.<|assistant|>A data structure is a way of organizing data so a program can use it efficiently. Lists, stacks, and trees are examples.<|end|>
+<|user|>What is GitHub<|assistant|>GitHub is a website that hosts Git repositories so you can store and share code.<|end|>
+<|user|>What is the capital of Egypt<|assistant|>Cairo is the capital of Egypt.<|end|>
+<|user|>What is Big O notation<|assistant|>Big O notation describes how fast an algorithm's running time grows as the input gets bigger.<|end|>
+<|user|>What is a React component<|assistant|>A component is a reusable piece of a React page, written as a function that returns HTML like code.<|end|>
+<|user|>What is backend?<|assistant|>The backend is the part of an app that runs on the server and handles data and logic.<|end|>
+<|user|>open youtube<|assistant|>Commands are not connected yet. They are coming in the next version.<|end|>
+<|user|>I am feeling down<|assistant|>I am sorry you feel sad. Talking to someone you trust can help. I am here to listen.<|end|>
+<|user|>how are you?<|assistant|>I am working well, thank you. How are you?<|end|>
+<|user|>What is a queue<|assistant|>A queue stores items so that the first item added is the first one removed.<|end|>
+<|user|>what is the capital of the united kingdom?<|assistant|>London is the capital of the United Kingdom.<|end|>
+<|user|>What is ethical hacking<|assistant|>A hacker is someone skilled with computers. Ethical hackers help find and fix security problems, while criminals break in to cause harm.<|end|>
+<|user|>Explain React.<|assistant|>React is a JavaScript library for building user interfaces from reusable components.<|end|>
+<|user|>What is HTTP?<|assistant|>HTTP is the protocol that browsers use to request web pages from servers.<|end|>
+<|user|>Explain Linux.<|assistant|>Linux is a free, open source operating system used widely on servers.<|end|>
+<|user|>i am happy<|assistant|>That is wonderful! What made your day good?<|end|>
+<|user|>what does api mean?<|assistant|>An API lets two programs talk to each other by sending requests and responses.<|end|>
+<|user|>what is overfitting?<|assistant|>Overfitting is when a model memorizes its training data and does badly on new data.<|end|>
+<|user|>What is Java?<|assistant|>Java is a popular object oriented programming language used for Android apps, business software, and large systems. It runs on the Java Virtual Machine.<|end|>
+<|user|>What is a component<|assistant|>A component is a reusable piece of a React page, written as a function that returns HTML like code.<|end|>
+<|user|>Explain functions.<|assistant|>A function is a reusable block of code that does one job.<|end|>
+<|user|>what is encryption?<|assistant|>Encryption scrambles data so only someone with the key can read it.<|end|>
+<|user|>what is json?<|assistant|>JSON is a simple text format for storing and sending data, using keys and values.<|end|>
+<|user|>what is water made of?<|assistant|>Water is made of hydrogen and oxygen. Its formula is H2O.<|end|>
+<|user|>Are you alive?<|assistant|>I am not human. I am an AI program that runs on a computer.<|end|>
+<|user|>capital of france?<|assistant|>Paris is the capital of France.<|end|>
+<|user|>Help me<|assistant|>Of course! Tell me what you need. I know the basics of programming, databases, web development, AI, and security.<|end|>
+<|user|>What topics do you know<|assistant|>I know the basics of programming, databases, web development, AI, cybersecurity, and a few general facts. I am still learning.<|end|>
+<|user|>What is TypeScript<|assistant|>TypeScript is JavaScript with types, which helps you catch mistakes before the code runs.<|end|>
+<|user|>what is the capital of france?<|assistant|>Paris is the capital of France.<|end|>
+<|user|>Explain prompt<|assistant|>A prompt is the text you give to a language model so it can answer or continue it.<|end|>
+<|user|>What is a tree data structure?<|assistant|>A tree is a data structure with a root and branches of connected nodes.<|end|>
+<|user|>what is kotlin?<|assistant|>Kotlin is a modern language used mainly for Android apps. It runs on the Java Virtual Machine.<|end|>
+<|user|>What does API mean<|assistant|>An API lets two programs talk to each other by sending requests and responses.<|end|>
+<|user|>what is the capital of canada?<|assistant|>Ottawa is the capital of Canada.<|end|>
+<|user|>explain the cloud.<|assistant|>Cloud computing means using servers on the internet to store data and run programs instead of using only your own computer.<|end|>
+<|user|>What is back end development?<|assistant|>The backend is the part of an app that runs on the server and handles data and logic.<|end|>
+<|user|>What is Node<|assistant|>Node.js lets you run JavaScript outside the browser, for example on a server.<|end|>
+<|user|>what is the capital of thailand?<|assistant|>Bangkok is the capital of Thailand.<|end|>
+<|user|>Capital of Germany?<|assistant|>Berlin is the capital of Germany.<|end|>
+<|user|>explain binary search.<|assistant|>Binary search finds an item in a sorted list by checking the middle and cutting the search in half each time.<|end|>
+<|user|>Explain algorithms.<|assistant|>An algorithm is a step by step method for solving a problem.<|end|>
+<|user|>Explain ransomware<|assistant|>Ransomware locks your files and demands money to unlock them.<|end|>
+<|user|>France's capital<|assistant|>Paris is the capital of France.<|end|>
+<|user|>How to start coding?<|assistant|>Start with one language like Python, practice every day with small projects, and read other people's code.<|end|>
+<|user|>what is sorting?<|assistant|>Sorting arranges items in order, such as from smallest to largest.<|end|>
+<|user|>i need help<|assistant|>Of course! Tell me what you need. I know the basics of programming, databases, web development, AI, and security.<|end|>
+<|user|>I feel stressed<|assistant|>That sounds hard. Take a short break, breathe slowly, and do one small task at a time.<|end|>
+<|user|>what is visual studio code?<|assistant|>Visual Studio Code is a free code editor made by Microsoft.<|end|>
+<|user|>What is full stack development<|assistant|>Full stack development means building both the frontend and the backend of an application.<|end|>
+<|user|>What is a code library?<|assistant|>A library is a collection of ready made code that you can use in your own programs.<|end|>
+<|user|>How do I select data in SQL<|assistant|>Use SELECT. Example: SELECT * FROM users;<|end|>
+<|user|>Explain C++.<|assistant|>C++ is a fast and powerful programming language used for games, operating systems, and software that needs high performance.<|end|>
+<|user|>What is ransomware<|assistant|>Ransomware locks your files and demands money to unlock them.<|end|>
+<|user|>Explain encryption<|assistant|>Encryption scrambles data so only someone with the key can read it.<|end|>
+<|user|>What is Node.js<|assistant|>Node.js lets you run JavaScript outside the browser, for example on a server.<|end|>
+<|user|>What is today's date<|assistant|>I cannot check the date yet. A command system will be added soon.<|end|>
+<|user|>explain rust.<|assistant|>Rust is a fast and safe programming language that prevents many memory errors. It is used for systems and tools.<|end|>
+<|user|>explain kotlin.<|assistant|>Kotlin is a modern language used mainly for Android apps. It runs on the Java Virtual Machine.<|end|>
+<|user|>egypt's capital?<|assistant|>Cairo is the capital of Egypt.<|end|>
+<|user|>what is the c language?<|assistant|>C is a low level programming language that is close to the hardware. It is used for operating systems and embedded devices.<|end|>
+<|user|>I am nervous about my exam<|assistant|>Exams can feel stressful. Make a short study plan, take breaks, and sleep well. You can do this.<|end|>
+<|user|>What is phishing<|assistant|>Phishing is a trick where attackers pretend to be trusted people to steal your information.<|end|>
+<|user|>What is attention in AI?<|assistant|>Attention lets a model decide which earlier words matter most when it predicts the next word.<|end|>
+<|user|>how many hours are in a day?<|assistant|>There are 24 hours in a day.<|end|>
+<|user|>capital of egypt?<|assistant|>Cairo is the capital of Egypt.<|end|>
+<|user|>can you speak?<|assistant|>Not yet. Voice output is planned for a later version.<|end|>
+<|user|>How do I write a for loop in Python?<|assistant|>Use for and range. Example: for i in range(5): print(i)<|end|>
+<|user|>How to make a function in Python?<|assistant|>Use def. Example: def add(a, b): return a + b<|end|>
+<|user|>Are you a human<|assistant|>I am not human. I am an AI program that runs on a computer.<|end|>
+<|user|>What is a list in programming?<|assistant|>An array is a list of values stored in order and accessed by position.<|end|>
+<|user|>What are your skills?<|assistant|>I can chat with you and answer simple questions about programming and general topics. Voice and robot control will be added in the future.<|end|>
+<|user|>How to create a route in Flask<|assistant|>Use the route decorator. Example: @app.route("/") then def home(): return "Hello"<|end|>
+<|user|>What is a token in AI<|assistant|>A token is a small piece of text, such as a word or part of a word, that a language model reads.<|end|>
+<|user|>What is binary<|assistant|>Binary is a number system with only 0 and 1. Computers use it to store all data.<|end|>
+<|user|>who is the president of the usa?<|assistant|>I cannot look up current facts yet, and my knowledge is very small. Please check a trusted news source.<|end|>
+<|user|>What is the capital of China?<|assistant|>Beijing is the capital of China.<|end|>
+<|user|>i am so mad<|assistant|>It is okay to feel angry. Try taking a few slow deep breaths. Do you want to tell me what happened?<|end|>
+<|user|>explain neural networks.<|assistant|>A neural network is a model made of layers of connected numbers that learns by adjusting them from examples.<|end|>
+<|user|>What is 2FA<|assistant|>Two factor authentication asks for a second proof, like a code on your phone, besides your password.<|end|>
+<|user|>tell me about the history of rome.<|assistant|>I do not know that yet. My knowledge is very small, but I am still learning.<|end|>
+<|user|>capital of china?<|assistant|>Beijing is the capital of China.<|end|>
+<|user|>what is a list in programming?<|assistant|>An array is a list of values stored in order and accessed by position.<|end|>
+<|user|>How many hours are in a day<|assistant|>There are 24 hours in a day.<|end|>
+<|user|>thank you monday<|assistant|>You are welcome!<|end|>
+<|user|>what is phishing?<|assistant|>Phishing is a trick where attackers pretend to be trusted people to steal your information.<|end|>
+<|user|>What can you do<|assistant|>I can chat with you and answer simple questions about programming and general topics. Voice and robot control will be added in the future.<|end|>
+<|user|>i am bored<|assistant|>Let us do something fun. We can talk about a topic you like, or you can try learning a small coding trick.<|end|>
+<|user|>How to start coding<|assistant|>Start with one language like Python, practice every day with small projects, and read other people's code.<|end|>
+<|user|>What is a VPN?<|assistant|>A VPN encrypts your internet traffic and sends it through another server to protect your privacy.<|end|>
+<|user|>explain typescript.<|assistant|>TypeScript is JavaScript with types, which helps you catch mistakes before the code runs.<|end|>
+<|user|>Explain MySQL<|assistant|>MySQL is a popular relational database that stores data in tables.<|end|>
+<|user|>what is debugging?<|assistant|>Debugging means finding and fixing bugs in your code.<|end|>
+<|user|>what is github?<|assistant|>GitHub is a website that hosts Git repositories so you can store and share code.<|end|>
+<|user|>what is a language model?<|assistant|>A language model is an AI that learns to predict the next piece of text. Chatbots are built on top of it.<|end|>
+<|user|>what is a neural network?<|assistant|>A neural network is a model made of layers of connected numbers that learns by adjusting them from examples.<|end|>
+<|user|>What is software testing<|assistant|>Testing checks that software works correctly and finds bugs before users do.<|end|>
+<|user|>Who are you?<|assistant|>I am Monday, a small AI assistant built from scratch by Anik. I am still learning.<|end|>
+<|user|>What is C++?<|assistant|>C++ is a fast and powerful programming language used for games, operating systems, and software that needs high performance.<|end|>
+<|user|>Tell me a fun fact<|assistant|>A group of flamingos is called a flamboyance.<|end|>
+<|user|>thank you<|assistant|>You are welcome!<|end|>
+<|user|>What is the capital of Australia<|assistant|>Canberra is the capital of Australia.<|end|>
+<|user|>explain dns.<|assistant|>DNS turns website names into IP addresses.<|end|>
+<|user|>What is a hash map?<|assistant|>A hash table stores key and value pairs and finds values quickly using a hash function.<|end|>
+<|user|>What is a data structure<|assistant|>A data structure is a way of organizing data so a program can use it efficiently. Lists, stacks, and trees are examples.<|end|>
+<|user|>what is a vpn?<|assistant|>A VPN encrypts your internet traffic and sends it through another server to protect your privacy.<|end|>
+<|user|>what is the capital of germany?<|assistant|>Berlin is the capital of Germany.<|end|>
+<|user|>turkey's capital?<|assistant|>Ankara is the capital of Turkey.<|end|>
+<|user|>explain c sharp.<|assistant|>C sharp is a language made by Microsoft. It is used for Windows apps, web services, and games made with Unity.<|end|>
+<|user|>How are you<|assistant|>I am working well, thank you. How are you?<|end|>
+<|user|>how to make a function in python?<|assistant|>Use def. Example: def add(a, b): return a + b<|end|>
+<|user|>What is a tree<|assistant|>A tree is a data structure with a root and branches of connected nodes.<|end|>
+<|user|>Thank you<|assistant|>Happy to help!<|end|>
+<|user|>What should I ask you?<|assistant|>I know the basics of programming, databases, web development, AI, cybersecurity, and a few general facts. I am still learning.<|end|>
+<|user|>What is a bug?<|assistant|>A bug is a mistake in a program that makes it behave in the wrong way.<|end|>
+<|user|>What is attention in AI<|assistant|>Attention lets a model decide which earlier words matter most when it predicts the next word.<|end|>
+<|user|>What is DNS<|assistant|>DNS turns website names into IP addresses.<|end|>
+<|user|>germany's capital?<|assistant|>Berlin is the capital of Germany.<|end|>
+<|user|>Indonesia's capital?<|assistant|>Jakarta is the capital of Indonesia.<|end|>
+<|user|>What is CSS<|assistant|>CSS controls how web pages look, such as colors, fonts, and layout.<|end|>
+<|user|>What is an algorithm<|assistant|>An algorithm is a step by step method for solving a problem.<|end|>
+<|user|>tell me something interesting<|assistant|>A group of flamingos is called a flamboyance.<|end|>
+<|user|>Who is the prime minister of Malaysia<|assistant|>I cannot look up current facts yet, and my knowledge is very small. Please check a trusted news source.<|end|>
+<|user|>explain react.<|assistant|>React is a JavaScript library for building user interfaces from reusable components.<|end|>
+<|user|>What is a virtual machine<|assistant|>A virtual machine is a computer simulated by software, so you can run another operating system safely.<|end|>
+<|user|>Explain linked list.<|assistant|>A linked list is a chain of nodes where each node points to the next one.<|end|>
+<|user|>hey<|assistant|>Hello! How can I help you today?<|end|>
+<|user|>explain html.<|assistant|>HTML is the markup language that defines the structure of web pages.<|end|>
+<|user|>Can you speak<|assistant|>Not yet. Voice output is planned for a later version.<|end|>
+<|user|>I feel great<|assistant|>That is wonderful! What made your day good?<|end|>
+<|user|>tell me about python.<|assistant|>Python is a popular programming language that is easy to read. It is used for web development, data science, and AI.<|end|>
+<|user|>What is the capital of Egypt?<|assistant|>Cairo is the capital of Egypt.<|end|>
+<|user|>What are props in React?<|assistant|>Props are inputs that a parent component passes to a child component in React.<|end|>
+<|user|>What is a bit?<|assistant|>A bit is a single 0 or 1. A byte is 8 bits.<|end|>
+<|user|>What is machine learning<|assistant|>Machine learning is when a computer learns patterns from data instead of being given exact rules.<|end|>
+<|user|>Japan's capital?<|assistant|>Tokyo is the capital of Japan.<|end|>
+<|user|>Who built you<|assistant|>Anik created me. Every part of my model was written and trained from scratch.<|end|>
+<|user|>Do you have a voice?<|assistant|>Not yet. Voice output is planned for a later version.<|end|>
+<|user|>singapore's capital?<|assistant|>Singapore is the capital of Singapore.<|end|>
+<|user|>I am under a lot of pressure<|assistant|>That sounds hard. Take a short break, breathe slowly, and do one small task at a time.<|end|>
+<|user|>What are props in React<|assistant|>Props are inputs that a parent component passes to a child component in React.<|end|>
+<|user|>Explain primary key<|assistant|>A primary key is a column that uniquely identifies each row in a table.<|end|>
+<|user|>What is ransomware?<|assistant|>Ransomware locks your files and demands money to unlock them.<|end|>
+<|user|>Can you help me<|assistant|>Of course! Tell me what you need. I know the basics of programming, databases, web development, AI, and security.<|end|>
+<|user|>what is back end development?<|assistant|>The backend is the part of an app that runs on the server and handles data and logic.<|end|>
+<|user|>Germany's capital?<|assistant|>Berlin is the capital of Germany.<|end|>
+<|user|>How to print in Python<|assistant|>Use print. For example, print("Hello") shows Hello on the screen.<|end|>
+<|user|>Japan's capital<|assistant|>Tokyo is the capital of Japan.<|end|>
+<|user|>what is a data structure?<|assistant|>A data structure is a way of organizing data so a program can use it efficiently. Lists, stacks, and trees are examples.<|end|>
+<|user|>Explain recursion.<|assistant|>Recursion is when a function calls itself to solve smaller versions of a problem.<|end|>
+<|user|>Explain virtual machine<|assistant|>A virtual machine is a computer simulated by software, so you can run another operating system safely.<|end|>
+<|user|>What is Linux?<|assistant|>Linux is a free, open source operating system used widely on servers.<|end|>
+<|user|>what is a tree?<|assistant|>A tree is a data structure with a root and branches of connected nodes.<|end|>
+<|user|>Thailand's capital?<|assistant|>Bangkok is the capital of Thailand.<|end|>
+<|user|>thanks monday<|assistant|>Happy to help!<|end|>
+<|user|>What is the command line<|assistant|>The terminal is a text window where you type commands to control your computer.<|end|>
+<|user|>what is the capital of australia?<|assistant|>Canberra is the capital of Australia.<|end|>
+<|user|>How do I debug my code?<|assistant|>Read the error message, find the line, test small parts, and print values to see what went wrong.<|end|>
+<|user|>tell me about yourself.<|assistant|>I am Monday, a small AI assistant built from scratch by Anik. I am still learning.<|end|>
+<|user|>What should I call you<|assistant|>My name is Monday.<|end|>
+<|user|>give me study tips.<|assistant|>Study in short sessions, remove distractions, practice by doing, and review what you learned.<|end|>
+<|user|>What day is it today?<|assistant|>I cannot check the date yet. A command system will be added soon.<|end|>
+<|user|>I feel lonely<|assistant|>I am sorry you feel lonely. I am here to talk, and reaching out to a friend or family member can help too.<|end|>
+<|user|>What time is it<|assistant|>I cannot read the clock yet. A command system will be added soon so I can tell the time.<|end|>
+<|user|>Explain linked list<|assistant|>A linked list is a chain of nodes where each node points to the next one.<|end|>
+<|user|>Can you help me?<|assistant|>Of course! Tell me what you need. I know the basics of programming, databases, web development, AI, and security.<|end|>
+<|user|>What do you know<|assistant|>I know the basics of programming, databases, web development, AI, cybersecurity, and a few general facts. I am still learning.<|end|>
+<|user|>Explain functions<|assistant|>A function is a reusable block of code that does one job.<|end|>
+<|user|>Explain databases.<|assistant|>A database is an organized collection of data that can be searched and updated.<|end|>
+<|user|>i feel tired<|assistant|>You may need rest. Drink some water, take a short break, and sleep well tonight.<|end|>
+<|user|>what is c?<|assistant|>C is a low level programming language that is close to the hardware. It is used for operating systems and embedded devices.<|end|>
+<|user|>Who invented the telephone?<|assistant|>I do not know that yet. My knowledge is very small, but I am still learning.<|end|>
+<|user|>What is cloud computing?<|assistant|>Cloud computing means using servers on the internet to store data and run programs instead of using only your own computer.<|end|>
+<|user|>i feel sad<|assistant|>I am sorry you feel sad. Talking to someone you trust can help. I am here to listen.<|end|>
+<|user|>What is a queue?<|assistant|>A queue stores items so that the first item added is the first one removed.<|end|>
+<|user|>can you control a robot?<|assistant|>That is the plan. One day I may become the brain of a robot.<|end|>
+<|user|>My code has an error<|assistant|>Read the error message, find the line, test small parts, and print values to see what went wrong.<|end|>
+<|user|>Explain Go language<|assistant|>Go is a programming language made by Google. It is simple and good for servers and cloud tools.<|end|>
+<|user|>What is sorting<|assistant|>Sorting arranges items in order, such as from smallest to largest.<|end|>
+<|user|>see you later<|assistant|>Goodbye! Talk to you soon.<|end|>
+<|user|>What is the capital of Germany<|assistant|>Berlin is the capital of Germany.<|end|>
+<|user|>explain flask.<|assistant|>Flask is a lightweight Python web framework for building websites and APIs.<|end|>
+<|user|>Say a fun fact<|assistant|>A group of flamingos is called a flamboyance.<|end|>
+<|user|>hello<|assistant|>Hi there! What would you like to do?<|end|>
+<|user|>Tell me a joke<|assistant|>Why do programmers prefer dark mode? Because light attracts bugs.<|end|>
+<|user|>How to read data in SQL?<|assistant|>Use SELECT. Example: SELECT * FROM users;<|end|>
+<|user|>Capital of Egypt<|assistant|>Cairo is the capital of Egypt.<|end|>
+<|user|>what is cybersecurity?<|assistant|>Cybersecurity is protecting computers, networks, and data from attacks.<|end|>
+<|user|>what is the terminal?<|assistant|>The terminal is a text window where you type commands to control your computer.<|end|>
+<|user|>Explain algorithms<|assistant|>An algorithm is a step by step method for solving a problem.<|end|>
+<|user|>What is a neural network?<|assistant|>A neural network is a model made of layers of connected numbers that learns by adjusting them from examples.<|end|>
+<|user|>What is a website<|assistant|>A website is a collection of web pages that you open with a browser using an address.<|end|>
+<|user|>explain prompt.<|assistant|>A prompt is the text you give to a language model so it can answer or continue it.<|end|>
+<|user|>Capital of Bangladesh<|assistant|>Dhaka is the capital of Bangladesh.<|end|>
+<|user|>What is a linked list<|assistant|>A linked list is a chain of nodes where each node points to the next one.<|end|>
+<|user|>Explain binary numbers.<|assistant|>Binary is a number system with only 0 and 1. Computers use it to store all data.<|end|>
+<|user|>What is the capital of Malaysia?<|assistant|>Kuala Lumpur is the capital of Malaysia.<|end|>
+<|user|>play some music<|assistant|>Commands are not connected yet. They are coming in the next version.<|end|>
+<|user|>what is node?<|assistant|>Node.js lets you run JavaScript outside the browser, for example on a server.<|end|>
+<|user|>say something funny<|assistant|>Why do programmers prefer dark mode? Because light attracts bugs.<|end|>
+<|user|>What is a server<|assistant|>A server is a computer that provides data or services to other computers.<|end|>
+<|user|>What is Big O notation?<|assistant|>Big O notation describes how fast an algorithm's running time grows as the input gets bigger.<|end|>
+<|user|>What is the internet<|assistant|>The internet is a global network of connected computers that share information.<|end|>
+<|user|>What is a neural network<|assistant|>A neural network is a model made of layers of connected numbers that learns by adjusting them from examples.<|end|>
+<|user|>What is GPT<|assistant|>GPT stands for generative pre trained transformer. It is a language model that predicts the next token.<|end|>
+<|user|>Which planet is the biggest?<|assistant|>Jupiter is the largest planet in our solar system.<|end|>
+<|user|>Explain database normalization<|assistant|>Normalization organizes database tables to reduce repeated data.<|end|>
+<|user|>How can you help me<|assistant|>I can chat with you and answer simple questions about programming and general topics. Voice and robot control will be added in the future.<|end|>
+<|user|>What is loss in training<|assistant|>Loss is a number that measures how wrong a model's predictions are. Training tries to make it smaller.<|end|>
+<|user|>Explain Python<|assistant|>Python is a popular programming language that is easy to read. It is used for web development, data science, and AI.<|end|>
+<|user|>Your name?<|assistant|>My name is Monday.<|end|>
+<|user|>I feel low<|assistant|>I am sorry you feel sad. Talking to someone you trust can help. I am here to listen.<|end|>
+<|user|>Are you a real person?<|assistant|>I am not human. I am an AI program that runs on a computer.<|end|>
+<|user|>Capital of France?<|assistant|>Paris is the capital of France.<|end|>
+<|user|>what is full stack development?<|assistant|>Full stack development means building both the frontend and the backend of an application.<|end|>
+<|user|>i am feeling down<|assistant|>I am sorry you feel sad. Talking to someone you trust can help. I am here to listen.<|end|>
+<|user|>explain debugging.<|assistant|>Debugging means finding and fixing bugs in your code.<|end|>
+<|user|>Explain Docker.<|assistant|>Docker packages an app and everything it needs into a container so it runs the same on any computer.<|end|>
+<|user|>Capital of Japan<|assistant|>Tokyo is the capital of Japan.<|end|>
+<|user|>what is a prompt?<|assistant|>A prompt is the text you give to a language model so it can answer or continue it.<|end|>
+<|user|>What is SQL injection<|assistant|>SQL injection is an attack where someone puts database commands into an input field. Parameterized queries help prevent it.<|end|>
+<|user|>What is a React component?<|assistant|>A component is a reusable piece of a React page, written as a function that returns HTML like code.<|end|>
+<|user|>explain http.<|assistant|>HTTP is the protocol that browsers use to request web pages from servers.<|end|>
+<|user|>What is full stack development?<|assistant|>Full stack development means building both the frontend and the backend of an application.<|end|>
+<|user|>What is the capital of Indonesia?<|assistant|>Jakarta is the capital of Indonesia.<|end|>
+<|user|>Explain software engineering.<|assistant|>Software engineering is the process of designing, building, testing, and maintaining software in an organized way.<|end|>
+<|user|>India's capital?<|assistant|>New Delhi is the capital of India.<|end|>
+<|user|>What is the time now<|assistant|>I cannot read the clock yet. A command system will be added soon so I can tell the time.<|end|>
+<|user|>Explain the cloud<|assistant|>Cloud computing means using servers on the internet to store data and run programs instead of using only your own computer.<|end|>
+<|user|>What is artificial intelligence?<|assistant|>AI means artificial intelligence, which is computers doing tasks that normally need human thinking.<|end|>
+<|user|>How do I print in Python<|assistant|>Use print. For example, print("Hello") shows Hello on the screen.<|end|>
+<|user|>How do I focus on studying<|assistant|>Study in short sessions, remove distractions, practice by doing, and review what you learned.<|end|>
+<|user|>Explain compiler<|assistant|>A compiler translates source code into machine code before the program runs.<|end|>
+<|user|>What is a parameter<|assistant|>A parameter is a number inside a model that is adjusted during training.<|end|>
+<|user|>Who are you<|assistant|>I am Monday, a small AI assistant built from scratch by Anik. I am still learning.<|end|>
+<|user|>Explain HTTP<|assistant|>HTTP is the protocol that browsers use to request web pages from servers.<|end|>
+<|user|>what is a strong password?<|assistant|>A strong password is long, unique, and mixes words, numbers, and symbols. Never reuse it on other sites.<|end|>
+<|user|>what can you do?<|assistant|>I can chat with you and answer simple questions about programming and general topics. Voice and robot control will be added in the future.<|end|>
+<|user|>Explain React<|assistant|>React is a JavaScript library for building user interfaces from reusable components.<|end|>
+<|user|>Explain HTML.<|assistant|>HTML is the markup language that defines the structure of web pages.<|end|>
+<|user|>What is software engineering?<|assistant|>Software engineering is the process of designing, building, testing, and maintaining software in an organized way.<|end|>
+<|user|>How to create a list in Python<|assistant|>Use square brackets. For example, numbers = [1, 2, 3].<|end|>
+<|user|>What is a parameter?<|assistant|>A parameter is a number inside a model that is adjusted during training.<|end|>
+<|user|>explain c programming.<|assistant|>C is a low level programming language that is close to the hardware. It is used for operating systems and embedded devices.<|end|>
+<|user|>What is sorting?<|assistant|>Sorting arranges items in order, such as from smallest to largest.<|end|>
+<|user|>Are you smart<|assistant|>I am very small, so I know much less than big AI systems. I will get better as my data and model grow.<|end|>
+<|user|>what is the capital of turkey?<|assistant|>Ankara is the capital of Turkey.<|end|>
+<|user|>What is overfitting?<|assistant|>Overfitting is when a model memorizes its training data and does badly on new data.<|end|>
+<|user|>do you have a voice?<|assistant|>Not yet. Voice output is planned for a later version.<|end|>
+<|user|>What is backend<|assistant|>The backend is the part of an app that runs on the server and handles data and logic.<|end|>
+<|user|>How to create a route in Flask?<|assistant|>Use the route decorator. Example: @app.route("/") then def home(): return "Hello"<|end|>
+<|user|>What is the difference between Java and JavaScript<|assistant|>They are different languages. Java is used for large applications and Android, while JavaScript makes web pages interactive.<|end|>
+<|user|>What is a library<|assistant|>A library is a collection of ready made code that you can use in your own programs.<|end|>
+<|user|>explain foreign key.<|assistant|>A foreign key is a column that links a row to a row in another table.<|end|>
+<|user|>What is Docker<|assistant|>Docker packages an app and everything it needs into a container so it runs the same on any computer.<|end|>
+<|user|>what is java used for?<|assistant|>Java is a popular object oriented programming language used for Android apps, business software, and large systems. It runs on the Java Virtual Machine.<|end|>
+<|user|>How do I select data in SQL?<|assistant|>Use SELECT. Example: SELECT * FROM users;<|end|>
+<|user|>Tell me about Python.<|assistant|>Python is a popular programming language that is easy to read. It is used for web development, data science, and AI.<|end|>
+<|user|>Hey Monday<|assistant|>Hello! How can I help you today?<|end|>
+<|user|>how can i become a developer?<|assistant|>Learn programming and data structures, build projects, put them on GitHub, and practice problem solving.<|end|>
+<|user|>Is Java the same as JavaScript?<|assistant|>They are different languages. Java is used for large applications and Android, while JavaScript makes web pages interactive.<|end|>
+<|user|>what is loss in training?<|assistant|>Loss is a number that measures how wrong a model's predictions are. Training tries to make it smaller.<|end|>
+<|user|>explain website.<|assistant|>A website is a collection of web pages that you open with a browser using an address.<|end|>
+<|user|>What is a VPN<|assistant|>A VPN encrypts your internet traffic and sends it through another server to protect your privacy.<|end|>
+<|user|>i feel great<|assistant|>That is wonderful! What made your day good?<|end|>
+<|user|>What is a hash map<|assistant|>A hash table stores key and value pairs and finds values quickly using a hash function.<|end|>
+<|user|>Egypt's capital?<|assistant|>Cairo is the capital of Egypt.<|end|>
+<|user|>Explain GitHub.<|assistant|>GitHub is a website that hosts Git repositories so you can store and share code.<|end|>
+<|user|>What is a software bug<|assistant|>A bug is a mistake in a program that makes it behave in the wrong way.<|end|>
+<|user|>What is cybersecurity<|assistant|>Cybersecurity is protecting computers, networks, and data from attacks.<|end|>
+<|user|>what is node.js?<|assistant|>Node.js lets you run JavaScript outside the browser, for example on a server.<|end|>
+<|user|>Are you smart?<|assistant|>I am very small, so I know much less than big AI systems. I will get better as my data and model grow.<|end|>
+<|user|>Egypt's capital<|assistant|>Cairo is the capital of Egypt.<|end|>
+<|user|>Who is the current leader of the world?<|assistant|>I cannot look up current facts yet, and my knowledge is very small. Please check a trusted news source.<|end|>
+<|user|>good morning monday<|assistant|>Good morning! I hope you have a great day.<|end|>
+<|user|>what is a byte?<|assistant|>A bit is a single 0 or 1. A byte is 8 bits.<|end|>
+<|user|>How to create a list in Python?<|assistant|>Use square brackets. For example, numbers = [1, 2, 3].<|end|>
+<|user|>What is normalization<|assistant|>Normalization organizes database tables to reduce repeated data.<|end|>
+<|user|>What is the capital of Australia?<|assistant|>Canberra is the capital of Australia.<|end|>
+<|user|>Explain RAM.<|assistant|>RAM is the short term memory of a computer. It holds the data that programs are using right now.<|end|>
+<|user|>United Kingdom's capital?<|assistant|>London is the capital of the United Kingdom.<|end|>
+<|user|>i am sad<|assistant|>I am sorry you feel sad. Talking to someone you trust can help. I am here to listen.<|end|>
+<|user|>Hello Monday<|assistant|>Hello! How can I help you today?<|end|>
+<|user|>i am nervous about my exam<|assistant|>Exams can feel stressful. Make a short study plan, take breaks, and sleep well. You can do this.<|end|>
+<|user|>What is the terminal?<|assistant|>The terminal is a text window where you type commands to control your computer.<|end|>
+<|user|>What is the C language?<|assistant|>C is a low level programming language that is close to the hardware. It is used for operating systems and embedded devices.<|end|>
+<|user|>what is the stock market?<|assistant|>I do not know that yet. My knowledge is very small, but I am still learning.<|end|>
+<|user|>How can I study better?<|assistant|>Study in short sessions, remove distractions, practice by doing, and review what you learned.<|end|>
+<|user|>what is binary search?<|assistant|>Binary search finds an item in a sorted list by checking the middle and cutting the search in half each time.<|end|>
+<|user|>What is a database?<|assistant|>A database is an organized collection of data that can be searched and updated.<|end|>
+<|user|>What is a stack<|assistant|>A stack stores items so that the last item added is the first one removed.<|end|>
+<|user|>What is a website?<|assistant|>A website is a collection of web pages that you open with a browser using an address.<|end|>
+<|user|>What is quantum physics?<|assistant|>I do not know that yet. My knowledge is very small, but I am still learning.<|end|>
+<|user|>what is react?<|assistant|>React is a JavaScript library for building user interfaces from reusable components.<|end|>
+<|user|>Explain C programming<|assistant|>C is a low level programming language that is close to the hardware. It is used for operating systems and embedded devices.<|end|>
+<|user|>What is cloud computing<|assistant|>Cloud computing means using servers on the internet to store data and run programs instead of using only your own computer.<|end|>
+<|user|>Capital of China<|assistant|>Beijing is the capital of China.<|end|>
+<|user|>What is an OS<|assistant|>An operating system manages the hardware and lets programs run. Windows, macOS, and Linux are examples.<|end|>
+<|user|>what is the capital of bangladesh?<|assistant|>Dhaka is the capital of Bangladesh.<|end|>
+<|user|>Hey<|assistant|>Hello! How can I help you today?<|end|>
+<|user|>What is a token in AI?<|assistant|>A token is a small piece of text, such as a word or part of a word, that a language model reads.<|end|>
+<|user|>good evening<|assistant|>Hello! I hope your day is going well.<|end|>
+<|user|>Explain Kotlin.<|assistant|>Kotlin is a modern language used mainly for Android apps. It runs on the Java Virtual Machine.<|end|>
+<|user|>What are you?<|assistant|>I am Monday, a small AI assistant built from scratch by Anik. I am still learning.<|end|>
+<|user|>Good morning<|assistant|>Good morning! I hope you have a great day.<|end|>
+<|user|>my code has an error<|assistant|>Read the error message, find the line, test small parts, and print values to see what went wrong.<|end|>
+<|user|>What is the capital of Canada?<|assistant|>Ottawa is the capital of Canada.<|end|>
+<|user|>Do you feel emotions?<|assistant|>I do not feel emotions like people do, but I am being built to understand how you feel.<|end|>
+<|user|>What is an OS?<|assistant|>An operating system manages the hardware and lets programs run. Windows, macOS, and Linux are examples.<|end|>
+<|user|>Do you have a voice<|assistant|>Not yet. Voice output is planned for a later version.<|end|>
+<|user|>Explain neural networks.<|assistant|>A neural network is a model made of layers of connected numbers that learns by adjusting them from examples.<|end|>
+<|user|>explain loops.<|assistant|>A loop repeats a block of code many times.<|end|>
+<|user|>Explain C programming.<|assistant|>C is a low level programming language that is close to the hardware. It is used for operating systems and embedded devices.<|end|>
+<|user|>What is a bit<|assistant|>A bit is a single 0 or 1. A byte is 8 bits.<|end|>
+<|user|>how do i select data in sql?<|assistant|>Use SELECT. Example: SELECT * FROM users;<|end|>
+<|user|>what is a software bug?<|assistant|>A bug is a mistake in a program that makes it behave in the wrong way.<|end|>
+<|user|>What is a framework?<|assistant|>A framework is a ready made structure of code that helps you build applications faster.<|end|>
+<|user|>explain malware.<|assistant|>Malware is harmful software, such as viruses and ransomware, made to damage systems or steal data.<|end|>
+<|user|>how do i focus on studying?<|assistant|>Study in short sessions, remove distractions, practice by doing, and review what you learned.<|end|>
+<|user|>what is c#?<|assistant|>C sharp is a language made by Microsoft. It is used for Windows apps, web services, and games made with Unity.<|end|>
+<|user|>What is OOP<|assistant|>Object oriented programming organizes code into objects that hold data and behavior. Classes are blueprints for objects.<|end|>
+<|user|>What is an API<|assistant|>An API lets two programs talk to each other by sending requests and responses.<|end|>
+<|user|>what is a react component?<|assistant|>A component is a reusable piece of a React page, written as a function that returns HTML like code.<|end|>
+<|user|>Capital of Thailand<|assistant|>Bangkok is the capital of Thailand.<|end|>
+<|user|>I am bored<|assistant|>Let us do something fun. We can talk about a topic you like, or you can try learning a small coding trick.<|end|>
+<|user|>what is agile?<|assistant|>Agile is a way of building software in short cycles, getting feedback, and improving step by step.<|end|>
+<|user|>what is javascript?<|assistant|>JavaScript is the programming language that makes web pages interactive. It runs in the browser and on servers.<|end|>
+<|user|>What is a language model?<|assistant|>A language model is an AI that learns to predict the next piece of text. Chatbots are built on top of it.<|end|>
+<|user|>What should I call you?<|assistant|>My name is Monday.<|end|>
+<|user|>What is a variable?<|assistant|>A variable is a named place in memory that stores a value.<|end|>
+<|user|>Capital of Thailand?<|assistant|>Bangkok is the capital of Thailand.<|end|>
+<|user|>Explain useState.<|assistant|>useState is a React hook that lets a component remember a value and update the screen when it changes.<|end|>
+<|user|>How many hours are in a day?<|assistant|>There are 24 hours in a day.<|end|>
+<|user|>tell me about rust.<|assistant|>Rust is a fast and safe programming language that prevents many memory errors. It is used for systems and tools.<|end|>
+<|user|>Explain compiler.<|assistant|>A compiler translates source code into machine code before the program runs.<|end|>
+<|user|>What is Rust<|assistant|>Rust is a fast and safe programming language that prevents many memory errors. It is used for systems and tools.<|end|>
+<|user|>what is the difference between java and javascript?<|assistant|>They are different languages. Java is used for large applications and Android, while JavaScript makes web pages interactive.<|end|>
+<|user|>What is recursion?<|assistant|>Recursion is when a function calls itself to solve smaller versions of a problem.<|end|>
+<|user|>what is sql injection?<|assistant|>SQL injection is an attack where someone puts database commands into an input field. Parameterized queries help prevent it.<|end|>
+<|user|>i am lonely<|assistant|>I am sorry you feel lonely. I am here to talk, and reaching out to a friend or family member can help too.<|end|>
+<|user|>What is your name<|assistant|>My name is Monday.<|end|>
+<|user|>What is the capital of Turkey?<|assistant|>Ankara is the capital of Turkey.<|end|>
+<|user|>what is a linked list?<|assistant|>A linked list is a chain of nodes where each node points to the next one.<|end|>
+<|user|>what is https?<|assistant|>HTTPS is HTTP with encryption, so the data between you and the website is protected.<|end|>
+<|user|>What is HTML?<|assistant|>HTML is the markup language that defines the structure of web pages.<|end|>
+<|user|>can you help me?<|assistant|>Of course! Tell me what you need. I know the basics of programming, databases, web development, AI, and security.<|end|>
+<|user|>can you help me with python?<|assistant|>Of course! Tell me what you need. I know the basics of programming, databases, web development, AI, and security.<|end|>
+<|user|>i need help with my project<|assistant|>Of course! Tell me what you need. I know the basics of programming, databases, web development, AI, and security.<|end|>
+<|user|>How do I become a software engineer?<|assistant|>Learn programming and data structures, build projects, put them on GitHub, and practice problem solving.<|end|>
+<|user|>Thanks<|assistant|>You are welcome!<|end|>
+<|user|>Are you a real person<|assistant|>I am not human. I am an AI program that runs on a computer.<|end|>
+<|user|>Tell me the news<|assistant|>I cannot read the news yet. Please check a trusted news source.<|end|>
+<|user|>Explain dataset.<|assistant|>A dataset is a collection of data used to train or test a model.<|end|>
+<|user|>Capital of Turkey<|assistant|>Ankara is the capital of Turkey.<|end|>
+<|user|>what is a function?<|assistant|>A function is a reusable block of code that does one job.<|end|>
+<|user|>What are props<|assistant|>Props are inputs that a parent component passes to a child component in React.<|end|>
+<|user|>explain ransomware.<|assistant|>Ransomware locks your files and demands money to unlock them.<|end|>
+<|user|>Explain the sun.<|assistant|>The sun is the star at the center of our solar system.<|end|>
+<|user|>What is Python<|assistant|>Python is a popular programming language that is easy to read. It is used for web development, data science, and AI.<|end|>
+<|user|>what are your skills?<|assistant|>I can chat with you and answer simple questions about programming and general topics. Voice and robot control will be added in the future.<|end|>
+<|user|>What can I ask you<|assistant|>I know the basics of programming, databases, web development, AI, cybersecurity, and a few general facts. I am still learning.<|end|>
+<|user|>Explain debugging.<|assistant|>Debugging means finding and fixing bugs in your code.<|end|>
+<|user|>Good night<|assistant|>Good night! Rest well.<|end|>
+<|user|>explain linked list.<|assistant|>A linked list is a chain of nodes where each node points to the next one.<|end|>
+<|user|>Who is the president of France?<|assistant|>I cannot look up current facts yet, and my knowledge is very small. Please check a trusted news source.<|end|>
+<|user|>how do i write a for loop in python?<|assistant|>Use for and range. Example: for i in range(5): print(i)<|end|>
+<|user|>Explain Docker<|assistant|>Docker packages an app and everything it needs into a container so it runs the same on any computer.<|end|>
+<|user|>Can you control a robot?<|assistant|>That is the plan. One day I may become the brain of a robot.<|end|>
+<|user|>explain git.<|assistant|>Git is a version control tool that tracks changes to your code so you can go back and work with others.<|end|>
+<|user|>What is a hash table?<|assistant|>A hash table stores key and value pairs and finds values quickly using a hash function.<|end|>
+<|user|>What is open source?<|assistant|>Open source software has code that anyone can read, use, and improve.<|end|>
+<|user|>will you be in a robot one day?<|assistant|>That is the plan. One day I may become the brain of a robot.<|end|>
+<|user|>Explain Git.<|assistant|>Git is a version control tool that tracks changes to your code so you can go back and work with others.<|end|>
+<|user|>will you be a robot?<|assistant|>That is the plan. One day I may become the brain of a robot.<|end|>
+<|user|>explain node.js.<|assistant|>Node.js lets you run JavaScript outside the browser, for example on a server.<|end|>
+<|user|>tell me the news.<|assistant|>I cannot read the news yet. Please check a trusted news source.<|end|>
+<|user|>do you have feelings?<|assistant|>I do not feel emotions like people do, but I am being built to understand how you feel.<|end|>
+<|user|>What is GPT?<|assistant|>GPT stands for generative pre trained transformer. It is a language model that predicts the next token.<|end|>
+<|user|>Explain API<|assistant|>An API lets two programs talk to each other by sending requests and responses.<|end|>
+<|user|>how do i make a strong password?<|assistant|>A strong password is long, unique, and mixes words, numbers, and symbols. Never reuse it on other sites.<|end|>
+<|user|>explain swift.<|assistant|>Swift is the programming language made by Apple for iPhone and Mac apps.<|end|>
+<|user|>what is the capital of singapore?<|assistant|>Singapore is the capital of Singapore.<|end|>
+<|user|>What is Java used for?<|assistant|>Java is a popular object oriented programming language used for Android apps, business software, and large systems. It runs on the Java Virtual Machine.<|end|>
+<|user|>what is the capital of indonesia?<|assistant|>Jakarta is the capital of Indonesia.<|end|>
+<|user|>Explain machine learning<|assistant|>Machine learning is when a computer learns patterns from data instead of being given exact rules.<|end|>
+<|user|>what is linux?<|assistant|>Linux is a free, open source operating system used widely on servers.<|end|>
+<|user|>Explain SQL<|assistant|>SQL is a language for storing, reading, and changing data in a database.<|end|>
+<|user|>What is Go?<|assistant|>Go is a programming language made by Google. It is simple and good for servers and cloud tools.<|end|>
+<|user|>What is a hacker?<|assistant|>A hacker is someone skilled with computers. Ethical hackers help find and fix security problems, while criminals break in to cause harm.<|end|>
+<|user|>Explain phishing.<|assistant|>Phishing is a trick where attackers pretend to be trusted people to steal your information.<|end|>
+<|user|>Explain primary key.<|assistant|>A primary key is a column that uniquely identifies each row in a table.<|end|>
+<|user|>Hi Monday<|assistant|>Hello! How can I help you today?<|end|>
+<|user|>Explain HTTPS<|assistant|>HTTPS is HTTP with encryption, so the data between you and the website is protected.<|end|>
+<|user|>united kingdom's capital?<|assistant|>London is the capital of the United Kingdom.<|end|>
+<|user|>capital of singapore?<|assistant|>Singapore is the capital of Singapore.<|end|>
+<|user|>I need help with my project<|assistant|>Of course! Tell me what you need. I know the basics of programming, databases, web development, AI, and security.<|end|>
+<|user|>What is useState?<|assistant|>useState is a React hook that lets a component remember a value and update the screen when it changes.<|end|>
+<|user|>What are you<|assistant|>I am Monday, a small AI assistant built from scratch by Anik. I am still learning.<|end|>
+<|user|>Capital of the USA<|assistant|>Washington, D.C. is the capital of the USA.<|end|>
+<|user|>Explain queue<|assistant|>A queue stores items so that the first item added is the first one removed.<|end|>
+<|user|>Explain HTTPS.<|assistant|>HTTPS is HTTP with encryption, so the data between you and the website is protected.<|end|>
+<|user|>how to create a route in flask?<|assistant|>Use the route decorator. Example: @app.route("/") then def home(): return "Hello"<|end|>
+<|user|>explain css.<|assistant|>CSS controls how web pages look, such as colors, fonts, and layout.<|end|>
+<|user|>explain json.<|assistant|>JSON is a simple text format for storing and sending data, using keys and values.<|end|>
+<|user|>What is the largest planet?<|assistant|>Jupiter is the largest planet in our solar system.<|end|>
+<|user|>explain python.<|assistant|>Python is a popular programming language that is easy to read. It is used for web development, data science, and AI.<|end|>
+<|user|>what is the internet?<|assistant|>The internet is a global network of connected computers that share information.<|end|>
+<|user|>Explain overfitting<|assistant|>Overfitting is when a model memorizes its training data and does badly on new data.<|end|>
+<|user|>Tell me the time<|assistant|>I cannot read the clock yet. A command system will be added soon so I can tell the time.<|end|>
+<|user|>explain binary numbers.<|assistant|>Binary is a number system with only 0 and 1. Computers use it to store all data.<|end|>
+<|user|>what can i ask you?<|assistant|>I know the basics of programming, databases, web development, AI, cybersecurity, and a few general facts. I am still learning.<|end|>
+<|user|>What is React?<|assistant|>React is a JavaScript library for building user interfaces from reusable components.<|end|>
+<|user|>i am good<|assistant|>That is great to hear!<|end|>
+<|user|>How do I become a software engineer<|assistant|>Learn programming and data structures, build projects, put them on GitHub, and practice problem solving.<|end|>
+<|user|>What is C#<|assistant|>C sharp is a language made by Microsoft. It is used for Windows apps, web services, and games made with Unity.<|end|>
+<|user|>introduce yourself.<|assistant|>I am Monday, a small AI assistant built from scratch by Anik. I am still learning.<|end|>
+<|user|>What is a prompt<|assistant|>A prompt is the text you give to a language model so it can answer or continue it.<|end|>
+<|user|>What is Node?<|assistant|>Node.js lets you run JavaScript outside the browser, for example on a server.<|end|>
+<|user|>what is a compiler?<|assistant|>A compiler translates source code into machine code before the program runs.<|end|>
+<|user|>What is recursion<|assistant|>Recursion is when a function calls itself to solve smaller versions of a problem.<|end|>
+<|user|>Capital of the United Kingdom<|assistant|>London is the capital of the United Kingdom.<|end|>
+<|user|>Explain Rust.<|assistant|>Rust is a fast and safe programming language that prevents many memory errors. It is used for systems and tools.<|end|>
+<|user|>What is HTTPS<|assistant|>HTTPS is HTTP with encryption, so the data between you and the website is protected.<|end|>
+<|user|>Explain JavaScript.<|assistant|>JavaScript is the programming language that makes web pages interactive. It runs in the browser and on servers.<|end|>
+<|user|>Explain Swift<|assistant|>Swift is the programming language made by Apple for iPhone and Mac apps.<|end|>
+<|user|>Can you control a robot<|assistant|>That is the plan. One day I may become the brain of a robot.<|end|>
+<|user|>what is vs code?<|assistant|>Visual Studio Code is a free code editor made by Microsoft.<|end|>
+<|user|>What is JSON?<|assistant|>JSON is a simple text format for storing and sending data, using keys and values.<|end|>
+<|user|>Capital of Egypt?<|assistant|>Cairo is the capital of Egypt.<|end|>
+<|user|>What is the capital of China<|assistant|>Beijing is the capital of China.<|end|>
+<|user|>Explain PHP<|assistant|>PHP is a server side scripting language that is widely used to build websites.<|end|>
+<|user|>What is Golang<|assistant|>Go is a programming language made by Google. It is simple and good for servers and cloud tools.<|end|>
+<|user|>What is TypeScript?<|assistant|>TypeScript is JavaScript with types, which helps you catch mistakes before the code runs.<|end|>
+<|user|>Hello<|assistant|>Hi there! What would you like to do?<|end|>
+<|user|>hey monday<|assistant|>Hi there! What would you like to do?<|end|>
+<|user|>what is a gpu?<|assistant|>A GPU is a processor that does many calculations at the same time. It is used for graphics and for training AI.<|end|>
+<|user|>explain the internet.<|assistant|>The internet is a global network of connected computers that share information.<|end|>
+<|user|>Who created you<|assistant|>Anik created me. Every part of my model was written and trained from scratch.<|end|>
+<|user|>what is go?<|assistant|>Go is a programming language made by Google. It is simple and good for servers and cloud tools.<|end|>
+<|user|>What is debugging<|assistant|>Debugging means finding and fixing bugs in your code.<|end|>
+<|user|>What are props?<|assistant|>Props are inputs that a parent component passes to a child component in React.<|end|>
+<|user|>What is AI?<|assistant|>AI means artificial intelligence, which is computers doing tasks that normally need human thinking.<|end|>
+<|user|>explain javascript.<|assistant|>JavaScript is the programming language that makes web pages interactive. It runs in the browser and on servers.<|end|>
+<|user|>what is http?<|assistant|>HTTP is the protocol that browsers use to request web pages from servers.<|end|>
+<|user|>I feel bored<|assistant|>Let us do something fun. We can talk about a topic you like, or you can try learning a small coding trick.<|end|>
+<|user|>i am scared of my exam<|assistant|>Exams can feel stressful. Make a short study plan, take breaks, and sleep well. You can do this.<|end|>
+<|user|>How can I become a developer<|assistant|>Learn programming and data structures, build projects, put them on GitHub, and practice problem solving.<|end|>
+<|user|>Hi<|assistant|>Hi there! What would you like to do?<|end|>
+<|user|>Explain SQL injection<|assistant|>SQL injection is an attack where someone puts database commands into an input field. Parameterized queries help prevent it.<|end|>
+<|user|>is java the same as javascript?<|assistant|>They are different languages. Java is used for large applications and Android, while JavaScript makes web pages interactive.<|end|>
+<|user|>Explain firewall<|assistant|>A firewall filters network traffic and blocks unwanted connections.<|end|>
+<|user|>what is the capital of japan?<|assistant|>Tokyo is the capital of Japan.<|end|>
+<|user|>What is Python?<|assistant|>Python is a popular programming language that is easy to read. It is used for web development, data science, and AI.<|end|>
+<|user|>Explain Java.<|assistant|>Java is a popular object oriented programming language used for Android apps, business software, and large systems. It runs on the Java Virtual Machine.<|end|>
+<|user|>What is PHP<|assistant|>PHP is a server side scripting language that is widely used to build websites.<|end|>
+<|user|>What is binary search?<|assistant|>Binary search finds an item in a sorted list by checking the middle and cutting the search in half each time.<|end|>
+<|user|>What is two factor authentication?<|assistant|>Two factor authentication asks for a second proof, like a code on your phone, besides your password.<|end|>
+<|user|>Explain website<|assistant|>A website is a collection of web pages that you open with a browser using an address.<|end|>
+<|user|>Capital of Canada?<|assistant|>Ottawa is the capital of Canada.<|end|>
+<|user|>open google<|assistant|>Commands are not connected yet. They are coming in the next version.<|end|>
+<|user|>What is object oriented programming?<|assistant|>Object oriented programming organizes code into objects that hold data and behavior. Classes are blueprints for objects.<|end|>
+<|user|>Are you a human?<|assistant|>I am not human. I am an AI program that runs on a computer.<|end|>
+<|user|>I am sad<|assistant|>I am sorry you feel sad. Talking to someone you trust can help. I am here to listen.<|end|>
+<|user|>Who created you?<|assistant|>Anik created me. Every part of my model was written and trained from scratch.<|end|>
+<|user|>what is your name?<|assistant|>My name is Monday.<|end|>
+<|user|>what should i ask you?<|assistant|>I know the basics of programming, databases, web development, AI, cybersecurity, and a few general facts. I am still learning.<|end|>
+<|user|>what is python?<|assistant|>Python is a popular programming language that is easy to read. It is used for web development, data science, and AI.<|end|>
+<|user|>What is an algorithm?<|assistant|>An algorithm is a step by step method for solving a problem.<|end|>
+<|user|>Explain the internet<|assistant|>The internet is a global network of connected computers that share information.<|end|>
+<|user|>what do you know?<|assistant|>I know the basics of programming, databases, web development, AI, cybersecurity, and a few general facts. I am still learning.<|end|>
+<|user|>Play some music<|assistant|>Commands are not connected yet. They are coming in the next version.<|end|>
+<|user|>thanks monday<|assistant|>You are welcome!<|end|>
+<|user|>What is a firewall?<|assistant|>A firewall filters network traffic and blocks unwanted connections.<|end|>
+<|user|>Are you intelligent<|assistant|>I am very small, so I know much less than big AI systems. I will get better as my data and model grow.<|end|>
+<|user|>hi<|assistant|>Hello! How can I help you today?<|end|>
+<|user|>I am exhausted<|assistant|>You may need rest. Drink some water, take a short break, and sleep well tonight.<|end|>
+<|user|>explain software engineering.<|assistant|>Software engineering is the process of designing, building, testing, and maintaining software in an organized way.<|end|>
+<|user|>What is an ERD?<|assistant|>An ERD, or entity relationship diagram, shows the tables in a database and how they relate to each other.<|end|>
+<|user|>your name?<|assistant|>My name is Monday.<|end|>
+<|user|>what is today's date?<|assistant|>I cannot check the date yet. A command system will be added soon.<|end|>
+<|user|>what is ransomware?<|assistant|>Ransomware locks your files and demands money to unlock them.<|end|>
+<|user|>what is artificial intelligence?<|assistant|>AI means artificial intelligence, which is computers doing tasks that normally need human thinking.<|end|>
+<|user|>Give me motivation<|assistant|>Small steps every day add up. Keep going, you are building something great.<|end|>
+<|user|>Can you help me with programming?<|assistant|>Of course! Tell me what you need. I know the basics of programming, databases, web development, AI, and security.<|end|>
+<|user|>What is a GPU<|assistant|>A GPU is a processor that does many calculations at the same time. It is used for graphics and for training AI.<|end|>
+<|user|>what is a variable?<|assistant|>A variable is a named place in memory that stores a value.<|end|>
+<|user|>how to print in python?<|assistant|>Use print. For example, print("Hello") shows Hello on the screen.<|end|>
+<|user|>Who made you?<|assistant|>Anik created me. Every part of my model was written and trained from scratch.<|end|>
+<|user|>Your name<|assistant|>My name is Monday.<|end|>
+<|user|>Explain PHP.<|assistant|>PHP is a server side scripting language that is widely used to build websites.<|end|>
+<|user|>who is the current leader of the world?<|assistant|>I cannot look up current facts yet, and my knowledge is very small. Please check a trusted news source.<|end|>
+<|user|>I am happy<|assistant|>That is wonderful! What made your day good?<|end|>
+<|user|>How to print in Python?<|assistant|>Use print. For example, print("Hello") shows Hello on the screen.<|end|>
+<|user|>Explain variables.<|assistant|>A variable is a named place in memory that stores a value.<|end|>
+<|user|>Explain Flask.<|assistant|>Flask is a lightweight Python web framework for building websites and APIs.<|end|>
+<|user|>Explain machine learning.<|assistant|>Machine learning is when a computer learns patterns from data instead of being given exact rules.<|end|>
+<|user|>tell me about c++.<|assistant|>C++ is a fast and powerful programming language used for games, operating systems, and software that needs high performance.<|end|>
+<|user|>what is 2fa?<|assistant|>Two factor authentication asks for a second proof, like a code on your phone, besides your password.<|end|>
+<|user|>How do I make a list in Python?<|assistant|>Use square brackets. For example, numbers = [1, 2, 3].<|end|>
+<|user|>what is object oriented programming?<|assistant|>Object oriented programming organizes code into objects that hold data and behavior. Classes are blueprints for objects.<|end|>
+<|user|>What is training?<|assistant|>Training means showing a model many examples and adjusting its numbers until its predictions get better.<|end|>
+<|user|>capital of japan?<|assistant|>Tokyo is the capital of Japan.<|end|>
+<|user|>explain overfitting.<|assistant|>Overfitting is when a model memorizes its training data and does badly on new data.<|end|>
+<|user|>What is a firewall<|assistant|>A firewall filters network traffic and blocks unwanted connections.<|end|>
+<|user|>what is backend?<|assistant|>The backend is the part of an app that runs on the server and handles data and logic.<|end|>
+<|user|>What is Swift?<|assistant|>Swift is the programming language made by Apple for iPhone and Mac apps.<|end|>
+<|user|>who is your creator?<|assistant|>Anik created me. Every part of my model was written and trained from scratch.<|end|>
+<|user|>What is a framework<|assistant|>A framework is a ready made structure of code that helps you build applications faster.<|end|>
+<|user|>How do I write a for loop in Python<|assistant|>Use for and range. Example: for i in range(5): print(i)<|end|>
+<|user|>how do i define a function in python?<|assistant|>Use def. Example: def add(a, b): return a + b<|end|>
+<|user|>capital of canada?<|assistant|>Ottawa is the capital of Canada.<|end|>
+<|user|>thank you<|assistant|>Happy to help!<|end|>
+<|user|>What is Agile?<|assistant|>Agile is a way of building software in short cycles, getting feedback, and improving step by step.<|end|>
+<|user|>What is front end development<|assistant|>The frontend is the part of an app that users see and click, like pages and buttons.<|end|>
+<|user|>What is AI<|assistant|>AI means artificial intelligence, which is computers doing tasks that normally need human thinking.<|end|>
+<|user|>Explain RAM<|assistant|>RAM is the short term memory of a computer. It holds the data that programs are using right now.<|end|>
+<|user|>What is a hacker<|assistant|>A hacker is someone skilled with computers. Ethical hackers help find and fix security problems, while criminals break in to cause harm.<|end|>
+<|user|>capital of the united kingdom?<|assistant|>London is the capital of the United Kingdom.<|end|>
+<|user|>What is frontend<|assistant|>The frontend is the part of an app that users see and click, like pages and buttons.<|end|>
+<|user|>who invented the telephone?<|assistant|>I do not know that yet. My knowledge is very small, but I am still learning.<|end|>
+<|user|>What is HTTPS?<|assistant|>HTTPS is HTTP with encryption, so the data between you and the website is protected.<|end|>
+<|user|>Explain IP address.<|assistant|>An IP address is a number that identifies a device on a network.<|end|>
+<|user|>What is open source software<|assistant|>Open source software has code that anyone can read, use, and improve.<|end|>
+<|user|>What is Docker?<|assistant|>Docker packages an app and everything it needs into a container so it runs the same on any computer.<|end|>
+<|user|>what is loss?<|assistant|>Loss is a number that measures how wrong a model's predictions are. Training tries to make it smaller.<|end|>
+<|user|>What is a hash table<|assistant|>A hash table stores key and value pairs and finds values quickly using a hash function.<|end|>
+<|user|>Who is the prime minister of Malaysia?<|assistant|>I cannot look up current facts yet, and my knowledge is very small. Please check a trusted news source.<|end|>
+<|user|>how do i print in python?<|assistant|>Use print. For example, print("Hello") shows Hello on the screen.<|end|>
+<|user|>I am stressed<|assistant|>That sounds hard. Take a short break, breathe slowly, and do one small task at a time.<|end|>
+<|user|>why do we test software?<|assistant|>Testing checks that software works correctly and finds bugs before users do.<|end|>
+<|user|>what is an erd?<|assistant|>An ERD, or entity relationship diagram, shows the tables in a database and how they relate to each other.<|end|>
+<|user|>India's capital<|assistant|>New Delhi is the capital of India.<|end|>
+<|user|>Explain TypeScript.<|assistant|>TypeScript is JavaScript with types, which helps you catch mistakes before the code runs.<|end|>
+<|user|>What is a function<|assistant|>A function is a reusable block of code that does one job.<|end|>
+<|user|>What does it mean to train a model?<|assistant|>Training means showing a model many examples and adjusting its numbers until its predictions get better.<|end|>
+<|user|>What is the latest news?<|assistant|>I cannot read the news yet. Please check a trusted news source.<|end|>
+<|user|>Which planet is the biggest<|assistant|>Jupiter is the largest planet in our solar system.<|end|>
+<|user|>I am so mad<|assistant|>It is okay to feel angry. Try taking a few slow deep breaths. Do you want to tell me what happened?<|end|>
+<|user|>What is water made of?<|assistant|>Water is made of hydrogen and oxygen. Its formula is H2O.<|end|>
+<|user|>hi monday<|assistant|>Hi there! What would you like to do?<|end|>
+<|user|>what is the weather?<|assistant|>I cannot check the weather yet. That skill is planned for a later version.<|end|>
+<|user|>what is the largest planet?<|assistant|>Jupiter is the largest planet in our solar system.<|end|>
+<|user|>Explain server.<|assistant|>A server is a computer that provides data or services to other computers.<|end|>
+<|user|>which planet is the biggest?<|assistant|>Jupiter is the largest planet in our solar system.<|end|>
+<|user|>Explain data structures<|assistant|>A data structure is a way of organizing data so a program can use it efficiently. Lists, stacks, and trees are examples.<|end|>
+<|user|>What is a variable<|assistant|>A variable is a named place in memory that stores a value.<|end|>
+<|user|>What is HTTP<|assistant|>HTTP is the protocol that browsers use to request web pages from servers.<|end|>
+<|user|>Explain DNS<|assistant|>DNS turns website names into IP addresses.<|end|>
+<|user|>Explain SQL.<|assistant|>SQL is a language for storing, reading, and changing data in a database.<|end|>
+<|user|>Thank you Monday<|assistant|>You are welcome!<|end|>
+<|user|>What is training<|assistant|>Training means showing a model many examples and adjusting its numbers until its predictions get better.<|end|>
+<|user|>What is an ERD<|assistant|>An ERD, or entity relationship diagram, shows the tables in a database and how they relate to each other.<|end|>
+<|user|>what is html?<|assistant|>HTML is the markup language that defines the structure of web pages.<|end|>
+<|user|>Explain cybersecurity<|assistant|>Cybersecurity is protecting computers, networks, and data from attacks.<|end|>
+<|user|>Who is the prime minister of Bangladesh?<|assistant|>I cannot look up current facts yet, and my knowledge is very small. Please check a trusted news source.<|end|>
+<|user|>Hi Monday<|assistant|>Hi there! What would you like to do?<|end|>
+<|user|>what is an os?<|assistant|>An operating system manages the hardware and lets programs run. Windows, macOS, and Linux are examples.<|end|>
+<|user|>how do i fix a bug?<|assistant|>Read the error message, find the line, test small parts, and print values to see what went wrong.<|end|>
+<|user|>Explain CPU.<|assistant|>The CPU is the main processor of a computer. It runs the instructions of programs.<|end|>
+<|user|>What is a foreign key?<|assistant|>A foreign key is a column that links a row to a row in another table.<|end|>
+<|user|>What is the capital of Japan<|assistant|>Tokyo is the capital of Japan.<|end|>
+<|user|>What is the time now?<|assistant|>I cannot read the clock yet. A command system will be added soon so I can tell the time.<|end|>
+<|user|>Explain prompt.<|assistant|>A prompt is the text you give to a language model so it can answer or continue it.<|end|>
+<|user|>Who is your creator<|assistant|>Anik created me. Every part of my model was written and trained from scratch.<|end|>
+<|user|>Explain malware<|assistant|>Malware is harmful software, such as viruses and ransomware, made to damage systems or steal data.<|end|>
+<|user|>who is the prime minister of malaysia?<|assistant|>I cannot look up current facts yet, and my knowledge is very small. Please check a trusted news source.<|end|>
+<|user|>What is the capital of Bangladesh?<|assistant|>Dhaka is the capital of Bangladesh.<|end|>
+<|user|>What is C++<|assistant|>C++ is a fast and powerful programming language used for games, operating systems, and software that needs high performance.<|end|>
+<|user|>How to write a loop in Python<|assistant|>Use for and range. Example: for i in range(5): print(i)<|end|>
+<|user|>what is usestate?<|assistant|>useState is a React hook that lets a component remember a value and update the screen when it changes.<|end|>
+<|user|>What is the capital of France<|assistant|>Paris is the capital of France.<|end|>
+<|user|>explain java.<|assistant|>Java is a popular object oriented programming language used for Android apps, business software, and large systems. It runs on the Java Virtual Machine.<|end|>
+<|user|>I am good<|assistant|>That is great to hear!<|end|>
+<|user|>Bye<|assistant|>Goodbye! Talk to you soon.<|end|>
+<|user|>What is a primary key?<|assistant|>A primary key is a column that uniquely identifies each row in a table.<|end|>
+<|user|>hello<|assistant|>Hello! How can I help you today?<|end|>
+<|user|>What is Flask?<|assistant|>Flask is a lightweight Python web framework for building websites and APIs.<|end|>
+<|user|>explain gpu.<|assistant|>A GPU is a processor that does many calculations at the same time. It is used for graphics and for training AI.<|end|>
+<|user|>who is the prime minister of bangladesh?<|assistant|>I cannot look up current facts yet, and my knowledge is very small. Please check a trusted news source.<|end|>
+<|user|>What are model parameters?<|assistant|>A parameter is a number inside a model that is adjusted during training.<|end|>
+<|user|>what is open source software?<|assistant|>Open source software has code that anyone can read, use, and improve.<|end|>
+<|user|>Capital of Malaysia<|assistant|>Kuala Lumpur is the capital of Malaysia.<|end|>
+<|user|>what are you?<|assistant|>I am Monday, a small AI assistant built from scratch by Anik. I am still learning.<|end|>
+<|user|>What is JavaScript<|assistant|>JavaScript is the programming language that makes web pages interactive. It runs in the browser and on servers.<|end|>
+<|user|>What is DNS?<|assistant|>DNS turns website names into IP addresses.<|end|>
+<|user|>Explain neural networks<|assistant|>A neural network is a model made of layers of connected numbers that learns by adjusting them from examples.<|end|>
+<|user|>Capital of Turkey?<|assistant|>Ankara is the capital of Turkey.<|end|>
+<|user|>Capital of the United Kingdom?<|assistant|>London is the capital of the United Kingdom.<|end|>
+<|user|>explain ip address.<|assistant|>An IP address is a number that identifies a device on a network.<|end|>
+<|user|>who built you?<|assistant|>Anik created me. Every part of my model was written and trained from scratch.<|end|>
+<|user|>Explain framework in programming.<|assistant|>A framework is a ready made structure of code that helps you build applications faster.<|end|>
+<|user|>what is docker?<|assistant|>Docker packages an app and everything it needs into a container so it runs the same on any computer.<|end|>
+<|user|>Explain software engineering<|assistant|>Software engineering is the process of designing, building, testing, and maintaining software in an organized way.<|end|>
+<|user|>How do I make a route in Flask?<|assistant|>Use the route decorator. Example: @app.route("/") then def home(): return "Hello"<|end|>
+<|user|>What is GitHub?<|assistant|>GitHub is a website that hosts Git repositories so you can store and share code.<|end|>
+<|user|>What is SQL injection?<|assistant|>SQL injection is an attack where someone puts database commands into an input field. Parameterized queries help prevent it.<|end|>
+<|user|>What is a loop?<|assistant|>A loop repeats a block of code many times.<|end|>
+<|user|>Capital of Indonesia?<|assistant|>Jakarta is the capital of Indonesia.<|end|>
+<|user|>Explain website.<|assistant|>A website is a collection of web pages that you open with a browser using an address.<|end|>

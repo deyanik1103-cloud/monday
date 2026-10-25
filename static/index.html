@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Monday</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&family=Barlow+Condensed:wght@600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --sheet: #17407f;          /* blueprint blue */
+    --sheet-deep: #102f63;
+    --grid: rgba(220, 232, 247, 0.09);
+    --ink: #eef4fc;
+    --ink-dim: #a9bedc;
+    --rule: rgba(220, 232, 247, 0.28);
+    --paper: #ffffff;
+    --on-paper: #14305c;
+    --sure: #bfd7f5;           /* gauge fill when Monday knows the topic */
+    --unsure: #ff8a2b;         /* the one warm colour: used only when Monday is not sure */
+    --body: "Barlow", "Segoe UI", system-ui, -apple-system, sans-serif;
+    --display: "Barlow Condensed", "Arial Narrow", "Segoe UI", sans-serif;
+  }
+
+  * { box-sizing: border-box; }
+  html, body { height: 100%; }
+
+  body {
+    margin: 0;
+    background-color: var(--sheet);
+    background-image:
+      linear-gradient(var(--grid) 1px, transparent 1px),
+      linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+    background-size: 28px 28px;
+    color: var(--ink);
+    font-family: var(--body);
+    font-size: 18px;
+    line-height: 1.5;
+    display: flex;
+    justify-content: center;
+  }
+
+  .sheet {
+    width: 100%;
+    max-width: 720px;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 0 20px;
+  }
+
+  header { padding: 40px 0 20px; border-bottom: 1px solid var(--rule); }
+  h1 {
+    margin: 0;
+    font-family: var(--display);
+    font-weight: 700;
+    font-size: clamp(56px, 12vw, 88px);
+    line-height: 0.9;
+    letter-spacing: 0.01em;
+  }
+  .tagline { margin: 10px 0 0; color: var(--ink-dim); }
+
+  main { flex: 1; padding: 24px 0 12px; }
+  #log { display: flex; flex-direction: column; gap: 22px; }
+
+  /* empty state */
+  .intro p { margin: 0 0 14px; max-width: 46ch; }
+  .suggestions { display: flex; flex-wrap: wrap; gap: 10px; }
+  .suggestions button {
+    font: inherit;
+    font-size: 16px;
+    color: var(--ink);
+    background: transparent;
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    padding: 8px 14px;
+    cursor: pointer;
+  }
+  .suggestions button:hover { border-color: var(--ink); }
+
+  /* messages */
+  .you {
+    align-self: flex-end;
+    max-width: 85%;
+    background: var(--paper);
+    color: var(--on-paper);
+    border-radius: 4px;
+    padding: 10px 14px;
+    overflow-wrap: anywhere;
+  }
+  .monday {
+    align-self: flex-start;
+    max-width: 92%;
+    padding-left: 16px;
+    border-left: 2px solid var(--sure);
+  }
+  .monday.unsure { border-left: 2px dashed var(--unsure); }
+  .monday p { margin: 0; overflow-wrap: anywhere; }
+
+  .gauge {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10px;
+    font-size: 14px;
+    color: var(--ink-dim);
+  }
+  .track { width: 120px; height: 6px; background: rgba(220, 232, 247, 0.2); border-radius: 1px; overflow: hidden; }
+  .fill { height: 100%; background: var(--sure); }
+  .unsure .fill { background: var(--unsure); }
+  .unsure .gauge { color: var(--unsure); }
+
+  .notice { align-self: flex-start; color: var(--unsure); padding-left: 16px; border-left: 2px dashed var(--unsure); }
+
+  .waiting { color: var(--ink-dim); }
+  .waiting .dots span { animation: blink 1.2s infinite; }
+  .waiting .dots span:nth-child(2) { animation-delay: 0.2s; }
+  .waiting .dots span:nth-child(3) { animation-delay: 0.4s; }
+  @keyframes blink { 0%, 80%, 100% { opacity: 0.2; } 40% { opacity: 1; } }
+
+  /* input */
+  .composer {
+    position: sticky;
+    bottom: 0;
+    padding: 14px 0 12px;
+    background: linear-gradient(to top, var(--sheet) 70%, transparent);
+  }
+  form { display: flex; gap: 10px; }
+  input[type="text"] {
+    flex: 1;
+    min-width: 0;
+    font: inherit;
+    color: var(--ink);
+    background: var(--sheet-deep);
+    border: 1px solid var(--rule);
+    border-radius: 3px;
+    padding: 12px 14px;
+  }
+  input[type="text"]::placeholder { color: var(--ink-dim); }
+  .send {
+    font: inherit;
+    font-weight: 600;
+    color: var(--on-paper);
+    background: var(--paper);
+    border: 0;
+    border-radius: 3px;
+    padding: 0 22px;
+    cursor: pointer;
+  }
+  .send:disabled { opacity: 0.5; cursor: default; }
+
+  :focus-visible { outline: 2px solid var(--paper); outline-offset: 2px; }
+
+  footer { padding: 6px 0 22px; font-size: 14px; color: var(--ink-dim); }
+
+  .sr-only {
+    position: absolute; width: 1px; height: 1px; overflow: hidden;
+    clip: rect(0 0 0 0); white-space: nowrap;
+  }
+
+  @media (max-width: 520px) {
+    body { font-size: 17px; }
+    header { padding-top: 28px; }
+    .you, .monday { max-width: 100%; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .waiting .dots span { animation: none; opacity: 1; }
+  }
+</style>
+</head>
+<body>
+<div class="sheet">
+  <header>
+    <h1>Monday</h1>
+    <p class="tagline">A small AI, built from scratch. It says so when it is not sure.</p>
+  </header>
+
+  <main>
+    <div id="log" role="log" aria-live="polite" aria-label="Conversation with Monday">
+      <div class="intro" id="intro">
+        <p>Ask about programming, databases, web development, AI, or cybersecurity. Or just say hello.</p>
+        <div class="suggestions">
+          <button type="button">Who made you?</button>
+          <button type="button">What is Docker?</button>
+          <button type="button">How do I print in Python?</button>
+          <button type="button">I am stressed</button>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <div class="composer">
+    <form id="form" autocomplete="off">
+      <label for="msg" class="sr-only">Message for Monday</label>
+      <input id="msg" type="text" maxlength="300" placeholder="Ask Monday…" required>
+      <button id="send" class="send" type="submit">Send</button>
+    </form>
+  </div>
+
+  <footer id="info">&nbsp;</footer>
+</div>
+
+<script>
+  const log = document.getElementById("log");
+  const form = document.getElementById("form");
+  const input = document.getElementById("msg");
+  const sendBtn = document.getElementById("send");
+  const intro = document.getElementById("intro");
+
+  function el(tag, className, text) {
+    const node = document.createElement(tag);
+    if (className) node.className = className;
+    if (text !== undefined) node.textContent = text;   // textContent keeps model output from being read as HTML
+    return node;
+  }
+
+  function scrollDown() {
+    window.scrollTo({ top: document.body.scrollHeight, behavior: "auto" });
+  }
+
+  function addYou(text) {
+    if (intro) intro.remove();
+    log.appendChild(el("div", "you", text));
+    scrollDown();
+  }
+
+  function addMonday(data) {
+    const box = el("article", "monday" + (data.known ? "" : " unsure"));
+    box.appendChild(el("p", "", data.answer));
+
+    const gauge = el("div", "gauge");
+    const track = el("div", "track");
+    const fill = el("div", "fill");
+    fill.style.width = Math.round(Math.max(0, Math.min(1, data.score)) * 100) + "%";
+    track.appendChild(fill);
+    gauge.appendChild(track);
+
+    let label = "familiarity " + data.score.toFixed(2);
+    if (!data.known) {
+      label = data.unseen && data.unseen.length
+        ? "new to me: " + data.unseen.join(", ")
+        : "unfamiliar topic";
+    }
+    gauge.appendChild(el("span", "", label));
+    gauge.setAttribute("role", "img");
+    gauge.setAttribute("aria-label", data.known ? "Monday knows this topic, familiarity " + data.score.toFixed(2) : "Monday is not sure about this topic");
+
+    box.appendChild(gauge);
+    log.appendChild(box);
+    scrollDown();
+  }
+
+  function addNotice(text) {
+    log.appendChild(el("div", "notice", text));
+    scrollDown();
+  }
+
+  function addWaiting() {
+    const w = el("div", "waiting");
+    w.appendChild(document.createTextNode("Monday is thinking"));
+    const dots = el("span", "dots");
+    dots.innerHTML = "<span>.</span><span>.</span><span>.</span>";   // fixed markup, no user text
+    w.appendChild(dots);
+    log.appendChild(w);
+    scrollDown();
+    return w;
+  }
+
+  async function ask(text) {
+    addYou(text);
+    const waiting = addWaiting();
+    sendBtn.disabled = true;
+    try {
+      const res = await fetch("/api/chat", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ message: text })
+      });
+      const data = await res.json();
+      waiting.remove();
+      if (!res.ok) addNotice(data.error || "Something went wrong. Try again.");
+      else addMonday(data);
+    } catch (err) {
+      waiting.remove();
+      addNotice("Monday could not be reached. Check that the server is running, then try again.");
+    } finally {
+      sendBtn.disabled = false;
+      input.focus();
+    }
+  }
+
+  form.addEventListener("submit", (e) => {
+    e.preventDefault();
+    const text = input.value.trim();
+    if (!text || sendBtn.disabled) return;
+    input.value = "";
+    ask(text);
+  });
+
+  document.querySelectorAll(".suggestions button").forEach((b) => {
+    b.addEventListener("click", () => ask(b.textContent));
+  });
+
+  fetch("/api/info")
+    .then((r) => r.json())
+    .then((d) => {
+      document.getElementById("info").textContent =
+        d.parameters.toLocaleString("en-US") + " parameters, " + d.vocab + "-token vocabulary, trained from scratch.";
+    })
+    .catch(() => {});
+
+  input.focus();
+</script>
+</body>
+</html>

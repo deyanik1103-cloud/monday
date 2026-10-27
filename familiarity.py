@@ -16,7 +16,10 @@ QUESTION = re.compile(r"<\|user\|>(.*?)<\|assistant\|>", re.S)
 # polite or filler words that do not change what is being asked
 FILLER = {"please", "pls", "kindly", "very", "really", "so", "much", "just", "actually",
           "could", "would", "maybe", "then", "now", "today", "again", "ok", "okay",
-          "with", "from", "by"}
+          "with", "from", "by",
+          # question frames ("tell me about X", "what does X do", "define X") that do not change the topic
+          "tell", "me", "about", "explain", "define", "describe", "does", "do", "mean", "meaning",
+          "whats", "city"}
 UNKNOWN_PENALTY = 2.0     # an unseen word counts this many times as much as the rarest known word
 MIN_SCORE = 0.45          # needed when every word was seen in training
 MIN_SCORE_WITH_UNSEEN = 0.75   # needed when the question contains a never-seen word
@@ -55,9 +58,12 @@ def close(a, b):
 
 class Familiarity:
     def __init__(self, questions):
-        unique = {tuple(words(q)) for q in questions}
-        unique = [q for q in unique if q]
+        raw = {}                                   # words -> one original training question (for rewording)
+        for q in questions:
+            raw.setdefault(tuple(words(q)), q.strip())
+        unique = [q for q in raw if q]
         self.questions = [set(q) for q in unique]
+        self.texts = [raw[q] for q in unique]
         df = Counter()
         for q in unique:
             for w in set(q):
@@ -83,7 +89,12 @@ class Familiarity:
         return None
 
     def analyze(self, question):
-        """Returns (score, unseen_words).
+        """Returns (score, unseen_words). See analyze_full for the closest training question too."""
+        score, unseen, _ = self.analyze_full(question)
+        return score, unseen
+
+    def analyze_full(self, question):
+        """Returns (score, unseen_words, closest_training_question).
 
         score: 0.0 = totally unfamiliar, 1.0 = matches a question Monday was trained on.
         We find the single training question that shares the most important words with
@@ -92,7 +103,7 @@ class Familiarity:
         """
         ws = words(question)
         if not ws:
-            return 0.0, []
+            return 0.0, [], None
         mine = {}                  # known canonical word -> importance
         unseen = []
         total = 0.0
@@ -106,20 +117,26 @@ class Familiarity:
                     mine[c] = self.idf[c]
                 total += self.idf[c]
         if not mine:
-            return 0.0, unseen
-        best = 0.0
-        for q in self.questions:
+            return 0.0, unseen, None
+        best, best_i = 0.0, None
+        for i, q in enumerate(self.questions):
             shared = sum(wt for c, wt in mine.items() if c in q)
-            if shared > best:
-                best = shared
-        return best / total, unseen
+            # on a tie, prefer the shorter training question (the less cluttered match)
+            if shared > best or (shared == best and best_i is not None and len(q) < len(self.questions[best_i])):
+                best, best_i = shared, i
+        return best / total, unseen, (self.texts[best_i] if best_i is not None else None)
 
     def score(self, question):
         return self.analyze(question)[0]
 
-    def check(self, question):
-        """Decide if Monday knows this topic. Returns (is_known, score, unseen_words)."""
-        score, unseen = self.analyze(question)
+    def check_full(self, question):
+        """Decide if Monday knows this topic. Returns (is_known, score, unseen_words, closest_question)."""
+        score, unseen, best = self.analyze_full(question)
         # A word Monday has never seen is a strong sign of a new topic, so it must be a tiny part of the question.
         needed = MIN_SCORE_WITH_UNSEEN if unseen else MIN_SCORE
-        return score >= needed, score, unseen
+        return score >= needed, score, unseen, best
+
+    def check(self, question):
+        """Same decision, without the closest question. Returns (is_known, score, unseen_words)."""
+        known, score, unseen, _ = self.check_full(question)
+        return known, score, unseen

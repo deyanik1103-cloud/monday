@@ -49,8 +49,9 @@ class Monday:
 
     def reply(self, question, show_guess=False):
         """Returns a dict: answer, known (True/False), score, unseen_words, guess."""
-        known, score, unseen = self.familiarity.check(question)
-        guess = self._generate(question) if (known or show_guess) else None
+        known, score, unseen, closest = self.familiarity.check_full(question)
+        # reword to the closest trained question, so a new wording gets the answer the model actually learned
+        guess = self._generate(closest if (known and closest) else question) if (known or show_guess) else None
         return {
             "answer": guess if known else UNSURE,
             "known": known,

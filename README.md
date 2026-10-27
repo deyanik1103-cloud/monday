@@ -43,3 +43,8 @@ See it working:  `python chat.py --debug`
 - familiarity.py: the "do I know this?" check
 - brain.py: Monday's brain, one function: reply(question) (the web app will use it)
 - train_chat.py / chat.py: milestone 2
+
+## Evaluation
+    python evaluate.py            # full test: new wordings, new topics, out-of-scope questions
+    python evaluate.py --gate     # only the "do I know this?" check (fast, no model run)
+Run it before and after every retrain, and write down the score.

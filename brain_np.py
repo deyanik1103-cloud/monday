@@ -52,13 +52,14 @@ class Monday:
         return self.tok.decode(out)
 
     def reply(self, question, show_guess=False):
-        known, score, unseen = self.familiarity.check(question)
-        key = " ".join(question.lower().split())
+        known, score, unseen, closest = self.familiarity.check_full(question)
+        asked = closest if (known and closest) else question   # reword to the closest trained question
+        key = " ".join(asked.lower().split())
         if known and not show_guess and key in self._answers:
             guess = self._answers[key]
             self._answers.move_to_end(key)
         else:
-            guess = self._generate(question) if (known or show_guess) else None
+            guess = self._generate(asked) if (known or show_guess) else None
             if known and guess is not None and not show_guess:
                 self._answers[key] = guess
                 if len(self._answers) > 300:

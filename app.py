@@ -4,6 +4,8 @@ import threading
 
 from flask import Flask, jsonify, request, send_from_directory
 
+import commands
+
 # Local: PyTorch brain. Hosted (no PyTorch installed) or MONDAY_BACKEND=numpy: NumPy brain.
 try:
     if os.environ.get("MONDAY_BACKEND") == "numpy":
@@ -35,6 +37,11 @@ def chat():
         return jsonify(error="Type a message first."), 400
     if len(message) > 300:
         return jsonify(error="Keep your message under 300 characters."), 400
+    # commands (time, timers, maths, open a site...) run as plain code; the model is not needed for them
+    cmd = commands.handle(message, str(data.get("tz", ""))[:64])
+    if cmd:
+        return jsonify(answer=cmd["answer"], known=True, score=1.0, unseen=[],
+                       kind="command", command=cmd["command"], action=cmd["action"])
     with lock:
         r = monday.reply(message)
     return jsonify(answer=r["answer"], known=r["known"], score=r["score"], unseen=r["unseen_words"])

@@ -111,6 +111,14 @@
   .unsure .fill { background: var(--unsure); }
   .unsure .gauge { color: var(--unsure); }
 
+  .open-link {
+    display: inline-block;
+    margin-top: 10px;
+    color: var(--ink);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
   .notice { align-self: flex-start; color: var(--unsure); padding-left: 16px; border-left: 2px dashed var(--unsure); }
 
   .waiting { color: var(--ink-dim); }
@@ -179,12 +187,13 @@
   <main>
     <div id="log" role="log" aria-live="polite" aria-label="Conversation with Monday">
       <div class="intro" id="intro">
-        <p>Ask about programming, databases, web development, AI, or cybersecurity. Or just say hello.</p>
+        <p>Ask about programming, databases, web development, AI, or cybersecurity. Or give a command: time, timers, maths, opening websites.</p>
         <div class="suggestions">
           <button type="button">Who made you?</button>
           <button type="button">What is Docker?</button>
-          <button type="button">How do I print in Python?</button>
-          <button type="button">I am stressed</button>
+          <button type="button">What time is it?</button>
+          <button type="button">Set a timer for 10 seconds</button>
+          <button type="button">What is 12 times 7?</button>
         </div>
       </div>
     </div>
@@ -251,6 +260,68 @@
     scrollDown();
   }
 
+  // ---- commands: things Monday does in your browser ----
+  const timers = [];
+
+  function beep() {
+    try {
+      const ctx = new (window.AudioContext || window.webkitAudioContext)();
+      [0, 0.35, 0.7].forEach((t) => {
+        const osc = ctx.createOscillator();
+        const gain = ctx.createGain();
+        osc.frequency.value = 880;
+        osc.connect(gain);
+        gain.connect(ctx.destination);
+        gain.gain.setValueAtTime(0.0001, ctx.currentTime + t);
+        gain.gain.exponentialRampToValueAtTime(0.25, ctx.currentTime + t + 0.02);
+        gain.gain.exponentialRampToValueAtTime(0.0001, ctx.currentTime + t + 0.25);
+        osc.start(ctx.currentTime + t);
+        osc.stop(ctx.currentTime + t + 0.3);
+      });
+    } catch (err) { /* no sound available, the message still appears */ }
+  }
+
+  function startTimer(seconds, label) {
+    const id = setTimeout(() => {
+      const i = timers.indexOf(id);
+      if (i >= 0) timers.splice(i, 1);
+      addCommandMessage("Your " + label + " timer is done.", "timer", null);
+      beep();
+    }, seconds * 1000);
+    timers.push(id);
+  }
+
+  function cancelTimers() {
+    timers.forEach((id) => clearTimeout(id));
+    timers.length = 0;
+  }
+
+  function addCommandMessage(text, name, action) {
+    if (intro) intro.remove();
+    const box = el("article", "monday");
+    box.appendChild(el("p", "", text));
+    if (action && action.type === "open" && /^https:\/\//.test(action.url)) {
+      const link = el("a", "open-link", "Open " + action.name + " in a new tab");
+      link.href = action.url;
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+      box.appendChild(link);
+      window.open(action.url, "_blank", "noopener,noreferrer");   // may be blocked by the browser, so the link stays
+    }
+    const tag = el("div", "gauge");
+    tag.appendChild(el("span", "", "command: " + name));
+    box.appendChild(tag);
+    log.appendChild(box);
+    scrollDown();
+  }
+
+  function addCommand(data) {
+    addCommandMessage(data.answer, data.command, data.action);
+    const a = data.action;
+    if (a && a.type === "timer") startTimer(a.seconds, a.label);
+    if (a && a.type === "cancel_timers") cancelTimers();
+  }
+
   function addNotice(text) {
     log.appendChild(el("div", "notice", text));
     scrollDown();
@@ -275,11 +346,12 @@
       const res = await fetch("/api/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ message: text })
+        body: JSON.stringify({ message: text, tz: Intl.DateTimeFormat().resolvedOptions().timeZone || "" })
       });
       const data = await res.json();
       waiting.remove();
       if (!res.ok) addNotice(data.error || "Something went wrong. Try again.");
+      else if (data.kind === "command") addCommand(data);
       else addMonday(data);
     } catch (err) {
       waiting.remove();

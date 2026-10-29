@@ -1,0 +1,12 @@
+{
+  "entries": [
+    {
+      "questions": [
+        "What is Haskell?"
+      ],
+      "answer": "Haskell is a general‑purpose, statically typed, purely functional programming language introduced in 1990, known for features like lazy evaluation, type inference, and strong mathematical foundations.",
+      "added": "2026-10-28"
+    }
+  ],
+  "skipped": []
+}

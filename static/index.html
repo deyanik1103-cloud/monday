@@ -285,7 +285,7 @@
     const id = setTimeout(() => {
       const i = timers.indexOf(id);
       if (i >= 0) timers.splice(i, 1);
-      addCommandMessage("Your " + label + " timer is done.", "timer", null);
+      addCommandMessage("Your " + label + " timer is done.", "command: timer", null);
       beep();
     }, seconds * 1000);
     timers.push(id);
@@ -296,7 +296,7 @@
     timers.length = 0;
   }
 
-  function addCommandMessage(text, name, action) {
+  function addCommandMessage(text, label, action) {
     if (intro) intro.remove();
     const box = el("article", "monday");
     box.appendChild(el("p", "", text));
@@ -309,14 +309,14 @@
       window.open(action.url, "_blank", "noopener,noreferrer");   // may be blocked by the browser, so the link stays
     }
     const tag = el("div", "gauge");
-    tag.appendChild(el("span", "", "command: " + name));
+    tag.appendChild(el("span", "", label));
     box.appendChild(tag);
     log.appendChild(box);
     scrollDown();
   }
 
   function addCommand(data) {
-    addCommandMessage(data.answer, data.command, data.action);
+    addCommandMessage(data.answer, "command: " + data.command, data.action);
     const a = data.action;
     if (a && a.type === "timer") startTimer(a.seconds, a.label);
     if (a && a.type === "cancel_timers") cancelTimers();
@@ -352,6 +352,7 @@
       waiting.remove();
       if (!res.ok) addNotice(data.error || "Something went wrong. Try again.");
       else if (data.kind === "command") addCommand(data);
+      else if (data.kind === "taught") addCommandMessage(data.answer, "taught answer", null);
       else addMonday(data);
     } catch (err) {
       waiting.remove();
@@ -378,7 +379,7 @@
     .then((r) => r.json())
     .then((d) => {
       document.getElementById("info").textContent =
-        d.parameters.toLocaleString("en-US") + " parameters, " + d.vocab + "-token vocabulary, trained from scratch.";
+        d.parameters.toLocaleString("en-US") + " parameters, " + d.vocab + "-token vocabulary, trained from scratch. Questions Monday is unsure about are logged so it can learn them.";
     })
     .catch(() => {});
 

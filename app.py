@@ -5,6 +5,7 @@ import threading
 from flask import Flask, jsonify, request, send_from_directory
 
 import commands
+import taught
 
 # Local: PyTorch brain. Hosted (no PyTorch installed) or MONDAY_BACKEND=numpy: NumPy brain.
 try:
@@ -16,7 +17,20 @@ except ImportError:
 
 app = Flask(__name__, static_folder="static", static_url_path="/static")
 monday = Monday()
+notes = taught.Taught()           # answers you taught Monday (taught.json)
+UNSURE_LOG = os.environ.get("UNSURE_LOG", "unsure_log.txt")
 lock = threading.Lock()          # the model answers one question at a time
+
+
+def log_unsure(message):
+    """Remember what Monday could not answer, so you can teach it (python teach.py)."""
+    line = " ".join(message.split())[:200]
+    print(f"[unsure] {line}", flush=True)                 # shows up in Render's Logs page
+    try:
+        with lock, open(UNSURE_LOG, "a", encoding="utf-8") as f:
+            f.write(line + "\n")                          # used when you run it on your own computer
+    except OSError:
+        pass
 
 
 @app.get("/")
@@ -44,6 +58,11 @@ def chat():
                        kind="command", command=cmd["command"], action=cmd["action"])
     with lock:
         r = monday.reply(message)
+    if not r["known"]:
+        note = notes.lookup(message)                       # something you taught it?
+        if note:
+            return jsonify(answer=note, known=True, score=1.0, unseen=[], kind="taught")
+        log_unsure(message)
     return jsonify(answer=r["answer"], known=r["known"], score=r["score"], unseen=r["unseen_words"])
 
 
